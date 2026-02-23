@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: db_trabajos_web
+    restart: always
+    networks:
+      - app-network  # <--- CONECTADO
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  scraper:
+    build: ./04_TrabajosWeb_Scraper
+    container_name: trabajos_scraper
+    depends_on:
+      - db
+      - logs_service
+    networks:
+      - app-network  # <--- CONECTADO
+    env_file:
+      - .env
+    tty: true
+    stdin_open: true
+    restart: on-failure # Agrega esto para que intente revivir si hay un crash
+
+  logs_service:
+    build: ./04_TrabajosWeb_Logs
+    container_name: trabajos_logs
+    networks:
+      - app-network  # <--- CONECTADO
+    volumes:
+      - ./logs_storage:/app/storage
+    ports:
+      - "8000:8000"
+      
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  db_data:

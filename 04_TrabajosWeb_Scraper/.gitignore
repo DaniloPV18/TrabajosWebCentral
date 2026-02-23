@@ -1,0 +1,16 @@
+# Automatización de Navegador
+selenium==4.21.0
+webdriver-manager==4.0.1
+
+# Manipulación y Estructura de Datos
+pandas==2.2.2
+numpy==1.26.4
+
+# Conexión a Base de Datos (SQL Server / PostgreSQL)
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+# Si decides usar SQL Server, descomenta la siguiente línea:
+# pyodbc==5.1.0
+
+# Utilidades
+python-dotenv==1.0.1
