@@ -8,13 +8,15 @@ services:
     networks:
       - app-network  # <--- CONECTADO
     environment:
+      # Forma de Mapa (sin guiones)
       POSTGRES_USER: ${DB_USER}
       POSTGRES_PASSWORD: ${DB_PASS}
       POSTGRES_DB: ${DB_NAME}
+      TZ: ${APP_TIMEZONE:-America/Guayaquil}
     ports:
       - "5432:5432"
     volumes:
-      - db_data:/var/lib/postgresql/data
+      - db_data:/var/lib/postgresql/data    
 
   scraper:
     build: ./04_TrabajosWeb_Scraper
@@ -31,6 +33,11 @@ services:
     env_file:
       - .env
     restart: always # En producción, siempre debe intentar revivir
+    volumes:
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+    environment:
+    - TZ=${APP_TIMEZONE:-America/Guayaquil} # <--- Aquí
 
   logs_service:
     build: ./04_TrabajosWeb_Logs
@@ -39,8 +46,12 @@ services:
       - app-network  # <--- CONECTADO
     volumes:
       - ./logs_storage:/app/storage
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
     ports:
       - "8000:8000"
+    environment:
+    - TZ=${APP_TIMEZONE:-America/Guayaquil} # <--- Aquí
       
 networks:
   app-network:
