@@ -19,6 +19,10 @@ services:
   scraper:
     build: ./04_TrabajosWeb_Scraper
     container_name: trabajos_scraper
+    # BUENA PRÁCTICA: Mantiene el proceso principal activo infinitamente
+    command: tail -f /dev/null
+    tty: true
+    stdin_open: true
     depends_on:
       - db
       - logs_service
@@ -26,9 +30,7 @@ services:
       - app-network  # <--- CONECTADO
     env_file:
       - .env
-    tty: true
-    stdin_open: true
-    restart: on-failure # Agrega esto para que intente revivir si hay un crash
+    restart: always # En producción, siempre debe intentar revivir
 
   logs_service:
     build: ./04_TrabajosWeb_Logs
