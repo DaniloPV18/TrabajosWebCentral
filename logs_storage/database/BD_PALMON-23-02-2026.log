@@ -718,3 +718,23 @@ LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
 LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
                                         ^
 
+2026-02-23 23:06:15,756 | INFO |  [INSERT] Analista de nomina
+2026-02-23 23:06:15,809 | INFO |  [INSERT] Pasante de Diseño Gráfico
+2026-02-23 23:06:15,861 | INFO |  [INSERT] Administrador de tiendas - Sierra
+2026-02-23 23:06:15,915 | INFO |  [INSERT] Administrador de tiendas - Costa
+2026-02-23 23:06:15,968 | INFO |  [INSERT] Diseñador Gráfico
+2026-02-23 23:06:16,021 | INFO |  [INSERT] Vendedores de tienda Centro
+2026-02-23 23:06:16,073 | INFO |  [INSERT] Vendedores de tienda Latacunga
+2026-02-23 23:06:16,125 | INFO |  [INSERT] Pasante de Edición
+2026-02-23 23:06:16,182 | INFO |  [INSERT] Vendedores de tienda Machala
+2026-02-23 23:06:16,231 | INFO |  [INSERT] Vendedores de tienda - Mall del Pacífico Manta
+2026-02-23 23:06:16,281 | INFO |  [INSERT] Vendedores de tienda - Paseo Shopping Manta
+2026-02-23 23:06:16,343 | INFO |  [INSERT] Vendedores de tienda Paseo Shopping Playas
+2026-02-23 23:06:16,397 | INFO |  [INSERT] Vendedores de tienda - Portoviejo
+2026-02-23 23:06:16,453 | INFO |  [INSERT] Vendedores de tienda Paseo Shopping Quevedo
+2026-02-23 23:06:16,509 | INFO |  [INSERT] Vendedores de tienda Condado Shopping
+2026-02-23 23:06:16,555 | INFO |  [INSERT] Vendedores de tienda El Recreo
+2026-02-23 23:06:16,603 | INFO |  [INSERT] Vendedores de tienda CCI
+2026-02-23 23:06:16,659 | INFO |  [INSERT] Vendedores de tienda San Luis Shopping
+2026-02-23 23:06:16,708 | INFO |  [INSERT] Vendedores de tienda Granados Plaza
+2026-02-23 23:06:16,754 | INFO |  [INSERT] Vendedores de tienda - Quicentro Sur

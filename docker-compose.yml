@@ -12,7 +12,10 @@ services:
       POSTGRES_USER: ${DB_USER}
       POSTGRES_PASSWORD: ${DB_PASS}
       POSTGRES_DB: ${DB_NAME}
-      APP_TIMEZONE: ${APP_TIMEZONE:-America/Guayaquil}
+      # Variable estándar para Linux/Alpine
+      TZ: ${APP_TIMEZONE:-America/Guayaquil}
+      # Para que Postgres use la zona horaria internamente
+      PGTZ: ${APP_TIMEZONE:-America/Guayaquil}
     ports:
       - "5432:5432"
     volumes:
@@ -35,7 +38,7 @@ services:
     env_file:
       - .env
     environment:
-      - APP_TIMEZONE=${APP_TIMEZONE:-America/Guayaquil}
+      - TZ=${APP_TIMEZONE:-America/Guayaquil} # <--- CRÍTICO
       - PYTHONPATH=/app/src
       - PYTHONUNBUFFERED=1
     
@@ -51,7 +54,7 @@ services:
     ports:
       - "8000:8000"
     environment:
-    - APP_TIMEZONE=${APP_TIMEZONE:-America/Guayaquil} # <--- Aquí
+    - TZ=${APP_TIMEZONE:-America/Guayaquil} # <--- CRÍTICO
       
 networks:
   app-network:
