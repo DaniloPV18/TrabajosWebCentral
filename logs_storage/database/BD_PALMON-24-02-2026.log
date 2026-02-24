@@ -1,0 +1,60 @@
+2026-02-24 00:00:44,978 | INFO | [INSERT] Analista de nomina
+2026-02-24 00:00:45,022 | INFO | [INSERT] Pasante de Diseño Gráfico
+2026-02-24 00:00:45,061 | INFO | [INSERT] Administrador de tiendas - Sierra
+2026-02-24 00:00:45,105 | INFO | [INSERT] Administrador de tiendas - Costa
+2026-02-24 00:00:45,148 | INFO | [INSERT] Diseñador Gráfico
+2026-02-24 00:00:45,196 | INFO | [INSERT] Vendedores de tienda Centro
+2026-02-24 00:00:45,237 | INFO | [INSERT] Vendedores de tienda Latacunga
+2026-02-24 00:00:45,277 | INFO | [INSERT] Pasante de Edición
+2026-02-24 00:00:45,324 | INFO | [INSERT] Vendedores de tienda Machala
+2026-02-24 00:00:45,366 | INFO | [INSERT] Vendedores de tienda - Mall del Pacífico Manta
+2026-02-24 00:00:45,403 | INFO | [INSERT] Vendedores de tienda - Paseo Shopping Manta
+2026-02-24 00:00:45,444 | INFO | [INSERT] Vendedores de tienda Paseo Shopping Playas
+2026-02-24 00:00:45,485 | INFO | [INSERT] Vendedores de tienda - Portoviejo
+2026-02-24 00:00:45,527 | INFO | [INSERT] Vendedores de tienda Paseo Shopping Quevedo
+2026-02-24 00:00:45,576 | INFO | [INSERT] Vendedores de tienda Condado Shopping
+2026-02-24 00:00:45,629 | INFO | [INSERT] Vendedores de tienda El Recreo
+2026-02-24 00:00:45,673 | INFO | [INSERT] Vendedores de tienda CCI
+2026-02-24 00:00:45,720 | INFO | [INSERT] Vendedores de tienda San Luis Shopping
+2026-02-24 00:00:45,765 | INFO | [INSERT] Vendedores de tienda Granados Plaza
+2026-02-24 00:00:45,810 | INFO | [INSERT] Vendedores de tienda - Quicentro Sur
+2026-02-24 00:43:28,435 | INFO | 2026-02-24 00:43:28,379 | INFO | [SKIP] Analista de nomina
+2026-02-24 00:43:28,531 | INFO | 2026-02-24 00:43:28,501 | INFO | [SKIP] Pasante de Diseño Gráfico
+2026-02-24 00:43:28,618 | INFO | 2026-02-24 00:43:28,604 | INFO | [SKIP] Administrador de tiendas - Sierra
+2026-02-24 00:43:28,670 | INFO | 2026-02-24 00:43:28,660 | INFO | [SKIP] Administrador de tiendas - Costa
+2026-02-24 00:43:28,711 | INFO | 2026-02-24 00:43:28,702 | INFO | [SKIP] Diseñador Gráfico
+2026-02-24 00:43:28,755 | INFO | 2026-02-24 00:43:28,747 | INFO | [SKIP] Vendedores de tienda Centro
+2026-02-24 00:43:28,804 | INFO | 2026-02-24 00:43:28,795 | INFO | [SKIP] Vendedores de tienda Latacunga
+2026-02-24 00:43:28,857 | INFO | 2026-02-24 00:43:28,849 | INFO | [SKIP] Pasante de Edición
+2026-02-24 00:43:28,919 | INFO | 2026-02-24 00:43:28,892 | INFO | [SKIP] Vendedores de tienda Machala
+2026-02-24 00:43:28,955 | INFO | 2026-02-24 00:43:28,947 | INFO | [SKIP] Vendedores de tienda - Mall del Pacífico Manta
+2026-02-24 00:43:28,998 | INFO | 2026-02-24 00:43:28,989 | INFO | [SKIP] Vendedores de tienda - Paseo Shopping Manta
+2026-02-24 00:43:29,042 | INFO | 2026-02-24 00:43:29,034 | INFO | [SKIP] Vendedores de tienda Paseo Shopping Playas
+2026-02-24 00:43:29,084 | INFO | 2026-02-24 00:43:29,075 | INFO | [SKIP] Vendedores de tienda - Portoviejo
+2026-02-24 00:43:29,123 | INFO | 2026-02-24 00:43:29,117 | INFO | [SKIP] Vendedores de tienda Paseo Shopping Quevedo
+2026-02-24 00:43:29,174 | INFO | 2026-02-24 00:43:29,162 | INFO | [SKIP] Vendedores de tienda Condado Shopping
+2026-02-24 00:43:29,220 | INFO | 2026-02-24 00:43:29,212 | INFO | [SKIP] Vendedores de tienda El Recreo
+2026-02-24 00:43:29,262 | INFO | 2026-02-24 00:43:29,252 | INFO | [SKIP] Vendedores de tienda CCI
+2026-02-24 00:43:29,299 | INFO | 2026-02-24 00:43:29,291 | INFO | [SKIP] Vendedores de tienda San Luis Shopping
+2026-02-24 00:43:29,343 | INFO | 2026-02-24 00:43:29,331 | INFO | [SKIP] Vendedores de tienda Granados Plaza
+2026-02-24 00:43:29,382 | INFO | 2026-02-24 00:43:29,370 | INFO | [SKIP] Vendedores de tienda - Quicentro Sur
+2026-02-24 00:45:53,948 | INFO |  [SKIP] Analista de nomina
+2026-02-24 00:45:53,995 | INFO |  [SKIP] Pasante de Diseño Gráfico
+2026-02-24 00:45:54,036 | INFO |  [SKIP] Administrador de tiendas - Sierra
+2026-02-24 00:45:54,076 | INFO |  [SKIP] Administrador de tiendas - Costa
+2026-02-24 00:45:54,117 | INFO |  [SKIP] Diseñador Gráfico
+2026-02-24 00:45:54,161 | INFO |  [SKIP] Vendedores de tienda Centro
+2026-02-24 00:45:54,203 | INFO |  [SKIP] Vendedores de tienda Latacunga
+2026-02-24 00:45:54,256 | INFO |  [SKIP] Pasante de Edición
+2026-02-24 00:45:54,300 | INFO |  [SKIP] Vendedores de tienda Machala
+2026-02-24 00:45:54,344 | INFO |  [SKIP] Vendedores de tienda - Mall del Pacífico Manta
+2026-02-24 00:45:54,386 | INFO |  [SKIP] Vendedores de tienda - Paseo Shopping Manta
+2026-02-24 00:45:54,428 | INFO |  [SKIP] Vendedores de tienda Paseo Shopping Playas
+2026-02-24 00:45:54,471 | INFO |  [SKIP] Vendedores de tienda - Portoviejo
+2026-02-24 00:45:54,537 | INFO |  [SKIP] Vendedores de tienda Paseo Shopping Quevedo
+2026-02-24 00:45:54,591 | INFO |  [SKIP] Vendedores de tienda Condado Shopping
+2026-02-24 00:45:54,632 | INFO |  [SKIP] Vendedores de tienda El Recreo
+2026-02-24 00:45:54,670 | INFO |  [SKIP] Vendedores de tienda CCI
+2026-02-24 00:45:54,711 | INFO |  [SKIP] Vendedores de tienda San Luis Shopping
+2026-02-24 00:45:54,756 | INFO |  [SKIP] Vendedores de tienda Granados Plaza
+2026-02-24 00:45:54,807 | INFO |  [SKIP] Vendedores de tienda - Quicentro Sur

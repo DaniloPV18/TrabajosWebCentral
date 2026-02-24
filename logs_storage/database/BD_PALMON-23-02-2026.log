@@ -638,3 +638,83 @@ LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
 LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
                                         ^
 
+2026-02-23 09:51:06,794 | ERROR | [ERROR BD] Fallo al procesar Analista de nomina: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:06,878 | ERROR | [ERROR BD] Fallo al procesar Pasante de Diseño Gráfico: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:06,962 | ERROR | [ERROR BD] Fallo al procesar Administrador de tiendas - Sierra: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,042 | ERROR | [ERROR BD] Fallo al procesar Administrador de tiendas - Costa: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,136 | ERROR | [ERROR BD] Fallo al procesar Diseñador Gráfico: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,218 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda Centro: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,298 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda Latacunga: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,378 | ERROR | [ERROR BD] Fallo al procesar Pasante de Edición: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,460 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda Machala: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,534 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda - Mall del Pacífico Manta: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,614 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda - Paseo Shopping Manta: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,691 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda Paseo Shopping Playas: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,771 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda - Portoviejo: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,849 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda Paseo Shopping Quevedo: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:07,927 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda Condado Shopping: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:08,005 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda El Recreo: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:08,081 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda CCI: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:08,156 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda San Luis Shopping: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:08,235 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda Granados Plaza: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
+2026-02-23 09:51:08,305 | ERROR | [ERROR BD] Fallo al procesar Vendedores de tienda - Quicentro Sur: relation "vacantes" does not exist
+LINE 2:                     INSERT INTO vacantes (titulo, empresa, u...
+                                        ^
+
