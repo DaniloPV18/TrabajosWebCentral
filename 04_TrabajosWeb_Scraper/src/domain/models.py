@@ -5,8 +5,11 @@ from datetime import datetime
 class Vacante:
     titulo: str
     url: str
-    empresa: str
     identificador: str  # La URL suele ser el identificador único
+    
+    id_empresa: int = None  # <-- Campo nuevo para la FK de la base de datos
+    empresa: str = ""
+    
     descripcion: str = ""
     fecha_extraccion: datetime = None
 

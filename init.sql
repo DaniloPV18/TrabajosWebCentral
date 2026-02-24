@@ -1,69 +1,81 @@
-
 -- Estructura inicial para el esquema de Vacantes
 
-CREATE TABLE IF NOT EXISTS Estado (
+CREATE TABLE IF NOT EXISTS estado (
     id SERIAL PRIMARY KEY,
-    Nombre VARCHAR(50) NOT NULL
+    nombre VARCHAR(50) UNIQUE NOT NULL -- Se agregó UNIQUE para que funcione el ON CONFLICT
 );
 
-CREATE TABLE IF NOT EXISTS Rol (
+INSERT INTO estado (nombre) VALUES ('Activo'), ('Inactivo'), ('Pendiente')
+ON CONFLICT (nombre) DO NOTHING;
+
+CREATE TABLE IF NOT EXISTS rol (
     id SERIAL PRIMARY KEY,
-    Nombre VARCHAR(50) NOT NULL,
-    FechaRegistro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FechaActualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    nombre VARCHAR(50) NOT NULL,
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE TABLE IF NOT EXISTS Usuario (
+CREATE TABLE IF NOT EXISTS usuario (
     id SERIAL PRIMARY KEY,
-    Nombre VARCHAR(100) NOT NULL,
-    Correo VARCHAR(100) UNIQUE NOT NULL,
-    Password TEXT NOT NULL,
-    FechaRegistro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FechaActualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    nombre VARCHAR(100) NOT NULL,
+    correo VARCHAR(100) UNIQUE NOT NULL,
+    password TEXT NOT NULL,
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE TABLE IF NOT EXISTS TipoContrato (
+CREATE TABLE IF NOT EXISTS tipo_contrato (
     id SERIAL PRIMARY KEY,
-    Nombre VARCHAR(100) NOT NULL,
-    FechaRegistro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FechaActualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    UsuarioCreacion INT REFERENCES Usuario(id),
-    UsuarioActualizacion INT REFERENCES Usuario(id)
+    nombre VARCHAR(100) NOT NULL,
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    usuario_creacion INT REFERENCES usuario(id),
+    usuario_actualizacion INT REFERENCES usuario(id)
 );
 
-CREATE TABLE IF NOT EXISTS TipoModalidad (
+CREATE TABLE IF NOT EXISTS tipo_modalidad (
     id SERIAL PRIMARY KEY,
-    Nombre VARCHAR(100) NOT NULL,
-    FechaRegistro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FechaActualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    UsuarioCreacion INT REFERENCES Usuario(id),
-    UsuarioActualizacion INT REFERENCES Usuario(id)
+    nombre VARCHAR(100) NOT NULL,
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    usuario_creacion INT REFERENCES usuario(id),
+    usuario_actualizacion INT REFERENCES usuario(id)
 );
 
-CREATE TABLE IF NOT EXISTS Empresas (
+CREATE TABLE IF NOT EXISTS empresas (
     id SERIAL PRIMARY KEY,
-    Nombre VARCHAR(150) NOT NULL,
-    Subdominio VARCHAR(100),
-    Proveedor VARCHAR(100),
-    FechaRegistro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FechaActualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    UsuarioCreacion INT REFERENCES Usuario(id),
-    UsuarioActualizacion INT REFERENCES Usuario(id),
-    IDEstado INT REFERENCES Estado(id)
+    nombre VARCHAR(150) UNIQUE NOT NULL, -- Se agregó UNIQUE para evitar errores en el insert
+    nombre_log VARCHAR(150) NOT NULL, -- Se agregó UNIQUE para evitar errores en el insert
+    subdominio VARCHAR(100),
+    proveedor VARCHAR(100),
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    usuario_creacion INT REFERENCES usuario(id),
+    usuario_actualizacion INT REFERENCES usuario(id),
+    id_estado INT REFERENCES estado(id)
 );
 
-CREATE TABLE IF NOT EXISTS Vacantes (
+-- Inserts solicitados (ahora en minúsculas para coincidir con la tabla)
+INSERT INTO empresas (nombre, nombre_log, subdominio, proveedor, id_estado) 
+VALUES ('Grupo Palmon', 'PALMON','grupopalmon', 'hiringroom', 1)
+ON CONFLICT (nombre) DO NOTHING;
+
+INSERT INTO empresas (nombre, nombre_log, subdominio, proveedor, id_estado) 
+VALUES ('ECUAQUIMICA', 'ECUAQUIMICA','ecuaquimica', 'hiringroom', 1)
+ON CONFLICT (nombre) DO NOTHING;
+
+CREATE TABLE IF NOT EXISTS vacantes (
     id SERIAL PRIMARY KEY,
-    IDEmpresa INT REFERENCES Empresas(id),
-    Titulo VARCHAR(255) NOT NULL,
-    Descripcion TEXT,
-    Identificador VARCHAR(100) UNIQUE, -- CRÍTICO: Para evitar duplicados en scraping
-    Url TEXT,
-    FechaRegistro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    FechaActualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    UsuarioCreacion INT REFERENCES Usuario(id),
-    UsuarioActualizacion INT REFERENCES Usuario(id),
-    IDTipoContrato INT REFERENCES TipoContrato(id),
-    IDTipoModalidad INT REFERENCES TipoModalidad(id),
-    IDEstado INT REFERENCES Estado(id)
+    id_empresa INT REFERENCES empresas(id),
+    titulo VARCHAR(255) NOT NULL,
+    descripcion TEXT,
+    identificador VARCHAR(100) UNIQUE, -- CRÍTICO: Para evitar duplicados en scraping
+    url TEXT,
+    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    usuario_creacion INT REFERENCES usuario(id),
+    usuario_actualizacion INT REFERENCES usuario(id),
+    id_tipo_contrato INT REFERENCES tipo_contrato(id),
+    id_tipo_modalidad INT REFERENCES tipo_modalidad(id),
+    id_estado INT REFERENCES estado(id)
 );
