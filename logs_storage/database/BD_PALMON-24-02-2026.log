@@ -1,100 +1,41 @@
-2026-02-24 00:00:44,978 | INFO | [INSERT] Analista de nomina
-2026-02-24 00:00:45,022 | INFO | [INSERT] Pasante de Diseño Gráfico
-2026-02-24 00:00:45,061 | INFO | [INSERT] Administrador de tiendas - Sierra
-2026-02-24 00:00:45,105 | INFO | [INSERT] Administrador de tiendas - Costa
-2026-02-24 00:00:45,148 | INFO | [INSERT] Diseñador Gráfico
-2026-02-24 00:00:45,196 | INFO | [INSERT] Vendedores de tienda Centro
-2026-02-24 00:00:45,237 | INFO | [INSERT] Vendedores de tienda Latacunga
-2026-02-24 00:00:45,277 | INFO | [INSERT] Pasante de Edición
-2026-02-24 00:00:45,324 | INFO | [INSERT] Vendedores de tienda Machala
-2026-02-24 00:00:45,366 | INFO | [INSERT] Vendedores de tienda - Mall del Pacífico Manta
-2026-02-24 00:00:45,403 | INFO | [INSERT] Vendedores de tienda - Paseo Shopping Manta
-2026-02-24 00:00:45,444 | INFO | [INSERT] Vendedores de tienda Paseo Shopping Playas
-2026-02-24 00:00:45,485 | INFO | [INSERT] Vendedores de tienda - Portoviejo
-2026-02-24 00:00:45,527 | INFO | [INSERT] Vendedores de tienda Paseo Shopping Quevedo
-2026-02-24 00:00:45,576 | INFO | [INSERT] Vendedores de tienda Condado Shopping
-2026-02-24 00:00:45,629 | INFO | [INSERT] Vendedores de tienda El Recreo
-2026-02-24 00:00:45,673 | INFO | [INSERT] Vendedores de tienda CCI
-2026-02-24 00:00:45,720 | INFO | [INSERT] Vendedores de tienda San Luis Shopping
-2026-02-24 00:00:45,765 | INFO | [INSERT] Vendedores de tienda Granados Plaza
-2026-02-24 00:00:45,810 | INFO | [INSERT] Vendedores de tienda - Quicentro Sur
-2026-02-24 00:43:28,435 | INFO | 2026-02-24 00:43:28,379 | INFO | [SKIP] Analista de nomina
-2026-02-24 00:43:28,531 | INFO | 2026-02-24 00:43:28,501 | INFO | [SKIP] Pasante de Diseño Gráfico
-2026-02-24 00:43:28,618 | INFO | 2026-02-24 00:43:28,604 | INFO | [SKIP] Administrador de tiendas - Sierra
-2026-02-24 00:43:28,670 | INFO | 2026-02-24 00:43:28,660 | INFO | [SKIP] Administrador de tiendas - Costa
-2026-02-24 00:43:28,711 | INFO | 2026-02-24 00:43:28,702 | INFO | [SKIP] Diseñador Gráfico
-2026-02-24 00:43:28,755 | INFO | 2026-02-24 00:43:28,747 | INFO | [SKIP] Vendedores de tienda Centro
-2026-02-24 00:43:28,804 | INFO | 2026-02-24 00:43:28,795 | INFO | [SKIP] Vendedores de tienda Latacunga
-2026-02-24 00:43:28,857 | INFO | 2026-02-24 00:43:28,849 | INFO | [SKIP] Pasante de Edición
-2026-02-24 00:43:28,919 | INFO | 2026-02-24 00:43:28,892 | INFO | [SKIP] Vendedores de tienda Machala
-2026-02-24 00:43:28,955 | INFO | 2026-02-24 00:43:28,947 | INFO | [SKIP] Vendedores de tienda - Mall del Pacífico Manta
-2026-02-24 00:43:28,998 | INFO | 2026-02-24 00:43:28,989 | INFO | [SKIP] Vendedores de tienda - Paseo Shopping Manta
-2026-02-24 00:43:29,042 | INFO | 2026-02-24 00:43:29,034 | INFO | [SKIP] Vendedores de tienda Paseo Shopping Playas
-2026-02-24 00:43:29,084 | INFO | 2026-02-24 00:43:29,075 | INFO | [SKIP] Vendedores de tienda - Portoviejo
-2026-02-24 00:43:29,123 | INFO | 2026-02-24 00:43:29,117 | INFO | [SKIP] Vendedores de tienda Paseo Shopping Quevedo
-2026-02-24 00:43:29,174 | INFO | 2026-02-24 00:43:29,162 | INFO | [SKIP] Vendedores de tienda Condado Shopping
-2026-02-24 00:43:29,220 | INFO | 2026-02-24 00:43:29,212 | INFO | [SKIP] Vendedores de tienda El Recreo
-2026-02-24 00:43:29,262 | INFO | 2026-02-24 00:43:29,252 | INFO | [SKIP] Vendedores de tienda CCI
-2026-02-24 00:43:29,299 | INFO | 2026-02-24 00:43:29,291 | INFO | [SKIP] Vendedores de tienda San Luis Shopping
-2026-02-24 00:43:29,343 | INFO | 2026-02-24 00:43:29,331 | INFO | [SKIP] Vendedores de tienda Granados Plaza
-2026-02-24 00:43:29,382 | INFO | 2026-02-24 00:43:29,370 | INFO | [SKIP] Vendedores de tienda - Quicentro Sur
-2026-02-24 00:45:53,948 | INFO |  [SKIP] Analista de nomina
-2026-02-24 00:45:53,995 | INFO |  [SKIP] Pasante de Diseño Gráfico
-2026-02-24 00:45:54,036 | INFO |  [SKIP] Administrador de tiendas - Sierra
-2026-02-24 00:45:54,076 | INFO |  [SKIP] Administrador de tiendas - Costa
-2026-02-24 00:45:54,117 | INFO |  [SKIP] Diseñador Gráfico
-2026-02-24 00:45:54,161 | INFO |  [SKIP] Vendedores de tienda Centro
-2026-02-24 00:45:54,203 | INFO |  [SKIP] Vendedores de tienda Latacunga
-2026-02-24 00:45:54,256 | INFO |  [SKIP] Pasante de Edición
-2026-02-24 00:45:54,300 | INFO |  [SKIP] Vendedores de tienda Machala
-2026-02-24 00:45:54,344 | INFO |  [SKIP] Vendedores de tienda - Mall del Pacífico Manta
-2026-02-24 00:45:54,386 | INFO |  [SKIP] Vendedores de tienda - Paseo Shopping Manta
-2026-02-24 00:45:54,428 | INFO |  [SKIP] Vendedores de tienda Paseo Shopping Playas
-2026-02-24 00:45:54,471 | INFO |  [SKIP] Vendedores de tienda - Portoviejo
-2026-02-24 00:45:54,537 | INFO |  [SKIP] Vendedores de tienda Paseo Shopping Quevedo
-2026-02-24 00:45:54,591 | INFO |  [SKIP] Vendedores de tienda Condado Shopping
-2026-02-24 00:45:54,632 | INFO |  [SKIP] Vendedores de tienda El Recreo
-2026-02-24 00:45:54,670 | INFO |  [SKIP] Vendedores de tienda CCI
-2026-02-24 00:45:54,711 | INFO |  [SKIP] Vendedores de tienda San Luis Shopping
-2026-02-24 00:45:54,756 | INFO |  [SKIP] Vendedores de tienda Granados Plaza
-2026-02-24 00:45:54,807 | INFO |  [SKIP] Vendedores de tienda - Quicentro Sur
-2026-02-24 04:00:36,952 | INFO |  [INSERT] Analista de nomina
-2026-02-24 04:00:36,999 | INFO |  [INSERT] Pasante de Diseño Gráfico
-2026-02-24 04:00:37,047 | INFO |  [INSERT] Administrador de tiendas - Sierra
-2026-02-24 04:00:37,095 | INFO |  [INSERT] Administrador de tiendas - Costa
-2026-02-24 04:00:37,144 | INFO |  [INSERT] Diseñador Gráfico
-2026-02-24 04:00:37,196 | INFO |  [INSERT] Vendedores de tienda Centro
-2026-02-24 04:00:37,242 | INFO |  [INSERT] Vendedores de tienda Latacunga
-2026-02-24 04:00:37,289 | INFO |  [INSERT] Pasante de Edición
-2026-02-24 04:00:37,335 | INFO |  [INSERT] Vendedores de tienda Machala
-2026-02-24 04:00:37,382 | INFO |  [INSERT] Vendedores de tienda - Mall del Pacífico Manta
-2026-02-24 04:00:37,428 | INFO |  [INSERT] Vendedores de tienda - Paseo Shopping Manta
-2026-02-24 04:00:37,476 | INFO |  [INSERT] Vendedores de tienda Paseo Shopping Playas
-2026-02-24 04:00:37,524 | INFO |  [INSERT] Vendedores de tienda - Portoviejo
-2026-02-24 04:00:37,571 | INFO |  [INSERT] Vendedores de tienda Paseo Shopping Quevedo
-2026-02-24 04:00:37,615 | INFO |  [INSERT] Vendedores de tienda Condado Shopping
-2026-02-24 04:00:37,661 | INFO |  [INSERT] Vendedores de tienda El Recreo
-2026-02-24 04:00:37,705 | INFO |  [INSERT] Vendedores de tienda CCI
-2026-02-24 04:00:37,766 | INFO |  [INSERT] Vendedores de tienda San Luis Shopping
-2026-02-24 04:00:37,829 | INFO |  [INSERT] Vendedores de tienda Granados Plaza
-2026-02-24 04:00:37,877 | INFO |  [INSERT] Vendedores de tienda - Quicentro Sur
-2026-02-24 22:13:50,686 | INFO |  [INSERT] Analista de nomina
-2026-02-24 22:13:50,729 | INFO |  [INSERT] Pasante de Diseño Gráfico
-2026-02-24 22:13:50,772 | INFO |  [INSERT] Administrador de tiendas - Sierra
-2026-02-24 22:13:50,824 | INFO |  [INSERT] Administrador de tiendas - Costa
-2026-02-24 22:13:50,868 | INFO |  [INSERT] Diseñador Gráfico
-2026-02-24 22:13:50,912 | INFO |  [INSERT] Vendedores de tienda Centro
-2026-02-24 22:13:50,961 | INFO |  [INSERT] Vendedores de tienda Latacunga
-2026-02-24 22:13:51,006 | INFO |  [INSERT] Pasante de Edición
-2026-02-24 22:13:51,047 | INFO |  [INSERT] Vendedores de tienda Machala
-2026-02-24 22:13:51,098 | INFO |  [INSERT] Vendedores de tienda - Mall del Pacífico Manta
-2026-02-24 22:13:51,141 | INFO |  [INSERT] Vendedores de tienda - Paseo Shopping Manta
-2026-02-24 22:13:51,194 | INFO |  [INSERT] Vendedores de tienda Paseo Shopping Playas
-2026-02-24 22:13:51,274 | INFO |  [INSERT] Vendedores de tienda - Portoviejo
-2026-02-24 22:13:51,318 | INFO |  [INSERT] Vendedores de tienda Paseo Shopping Quevedo
-2026-02-24 22:13:51,363 | INFO |  [INSERT] Vendedores de tienda Condado Shopping
-2026-02-24 22:13:51,405 | INFO |  [INSERT] Vendedores de tienda El Recreo
-2026-02-24 22:13:51,451 | INFO |  [INSERT] Vendedores de tienda CCI
-2026-02-24 22:13:51,502 | INFO |  [INSERT] Vendedores de tienda San Luis Shopping
-2026-02-24 22:13:51,556 | INFO |  [INSERT] Vendedores de tienda Granados Plaza
-2026-02-24 22:13:51,603 | INFO |  [INSERT] Vendedores de tienda - Quicentro Sur
+2026-02-24 23:11:49,615 | INFO |  UUID:699e6951bf32a6698ced3889 | [INSERT] Pasante de Talento Humano
+2026-02-24 23:11:49,667 | INFO |  UUID:698b67cd57d1e56774cf968f | [INSERT] Analista de nomina
+2026-02-24 23:11:49,721 | INFO |  UUID:6986109409b0defc119a2a4b | [INSERT] Pasante de Diseño Gráfico
+2026-02-24 23:11:49,780 | INFO |  UUID:6984fafae169b0d9d0ebcd4d | [INSERT] Administrador de tiendas - Sierra
+2026-02-24 23:11:49,831 | INFO |  UUID:6984f9ace169b0d9d0ebc6e8 | [INSERT] Administrador de tiendas - Costa
+2026-02-24 23:11:49,878 | INFO |  UUID:698377a8a1d02be165b3eb93 | [INSERT] Diseñador Gráfico
+2026-02-24 23:11:49,929 | INFO |  UUID:698207b51e6b3bfca99b8e69 | [INSERT] Vendedores de tienda Centro
+2026-02-24 23:11:49,977 | INFO |  UUID:6980b9878fd52ffa2f4be421 | [INSERT] Vendedores de tienda Latacunga
+2026-02-24 23:11:50,038 | INFO |  UUID:697d2ecf15b8d0c38a432d53 | [INSERT] Pasante de Edición
+2026-02-24 23:11:50,086 | INFO |  UUID:697d2ea0aacb782ea96cc47b | [INSERT] Vendedores de tienda Machala
+2026-02-24 23:11:50,135 | INFO |  UUID:697d2e67539a94c302ecee61 | [INSERT] Vendedores de tienda - Mall del Pacífico Manta
+2026-02-24 23:11:50,184 | INFO |  UUID:697d2e35539a94c302ecede9 | [INSERT] Vendedores de tienda - Paseo Shopping Manta
+2026-02-24 23:11:50,236 | INFO |  UUID:697d2e012c439eabdce422fc | [INSERT] Vendedores de tienda Paseo Shopping Playas
+2026-02-24 23:11:50,299 | INFO |  UUID:697d2db815b8d0c38a432a56 | [INSERT] Vendedores de tienda - Portoviejo
+2026-02-24 23:11:50,349 | INFO |  UUID:697d2d82539a94c302ecec6f | [INSERT] Vendedores de tienda Paseo Shopping Quevedo
+2026-02-24 23:11:50,397 | INFO |  UUID:697d2c52aacb782ea96cbe92 | [INSERT] Vendedores de tienda Condado Shopping
+2026-02-24 23:11:50,445 | INFO |  UUID:697d2c20539a94c302ece98c | [INSERT] Vendedores de tienda El Recreo
+2026-02-24 23:11:50,493 | INFO |  UUID:697d2b9f539a94c302ece85a | [INSERT] Vendedores de tienda CCI
+2026-02-24 23:11:50,552 | INFO |  UUID:697d2b6c2c439eabdce41e4c | [INSERT] Vendedores de tienda San Luis Shopping
+2026-02-24 23:11:50,604 | INFO |  UUID:697d2b37aacb782ea96cbc4c | [INSERT] Vendedores de tienda Granados Plaza
+2026-02-24 23:13:17,505 | INFO |  UUID:699e6951bf32a6698ced3889 | [UPDATE] Pasante de Talento Humano
+2026-02-24 23:13:17,550 | INFO |  UUID:698b67cd57d1e56774cf968f | [UPDATE] Analista de nomina
+2026-02-24 23:13:17,596 | INFO |  UUID:6986109409b0defc119a2a4b | [UPDATE] Pasante de Diseño Gráfico
+2026-02-24 23:13:17,645 | INFO |  UUID:6984fafae169b0d9d0ebcd4d | [UPDATE] Administrador de tiendas - Sierra
+2026-02-24 23:13:17,687 | INFO |  UUID:6984f9ace169b0d9d0ebc6e8 | [UPDATE] Administrador de tiendas - Costa
+2026-02-24 23:13:17,735 | INFO |  UUID:698377a8a1d02be165b3eb93 | [UPDATE] Diseñador Gráfico
+2026-02-24 23:13:17,783 | INFO |  UUID:698207b51e6b3bfca99b8e69 | [UPDATE] Vendedores de tienda Centro
+2026-02-24 23:13:17,834 | INFO |  UUID:6980b9878fd52ffa2f4be421 | [UPDATE] Vendedores de tienda Latacunga
+2026-02-24 23:13:17,888 | INFO |  UUID:697d2ecf15b8d0c38a432d53 | [UPDATE] Pasante de Edición
+2026-02-24 23:13:17,937 | INFO |  UUID:697d2ea0aacb782ea96cc47b | [UPDATE] Vendedores de tienda Machala
+2026-02-24 23:13:17,988 | INFO |  UUID:697d2e67539a94c302ecee61 | [UPDATE] Vendedores de tienda - Mall del Pacífico Manta
+2026-02-24 23:13:18,037 | INFO |  UUID:697d2e35539a94c302ecede9 | [UPDATE] Vendedores de tienda - Paseo Shopping Manta
+2026-02-24 23:13:18,084 | INFO |  UUID:697d2e012c439eabdce422fc | [UPDATE] Vendedores de tienda Paseo Shopping Playas
+2026-02-24 23:13:18,134 | INFO |  UUID:697d2db815b8d0c38a432a56 | [UPDATE] Vendedores de tienda - Portoviejo
+2026-02-24 23:13:18,180 | INFO |  UUID:697d2d82539a94c302ecec6f | [UPDATE] Vendedores de tienda Paseo Shopping Quevedo
+2026-02-24 23:13:18,229 | INFO |  UUID:697d2c52aacb782ea96cbe92 | [UPDATE] Vendedores de tienda Condado Shopping
+2026-02-24 23:13:18,277 | INFO |  UUID:697d2c20539a94c302ece98c | [UPDATE] Vendedores de tienda El Recreo
+2026-02-24 23:13:18,323 | INFO |  [CLEANUP] Se desactivaron 3 vacantes:
+2026-02-24 23:13:18,330 | WARNING |  UUID:697d2c20539a94c302ece98c | [OFFLINE] -> Vendedores de tienda CCI
+2026-02-24 23:13:18,332 | WARNING |  UUID:697d2c20539a94c302ece98c | [OFFLINE] -> Vendedores de tienda San Luis Shopping
+2026-02-24 23:13:18,337 | WARNING |  UUID:697d2c20539a94c302ece98c | [OFFLINE] -> Vendedores de tienda Granados Plaza

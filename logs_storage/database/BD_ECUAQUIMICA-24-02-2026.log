@@ -1,40 +1,41 @@
-2026-02-24 04:00:49,564 | INFO |  [INSERT] Promotor Zonal (Campo Abierto) - Pallatanga
-2026-02-24 04:00:49,612 | INFO |  [INSERT] Asistente de Logística - Sto Domingo
-2026-02-24 04:00:49,659 | INFO |  [INSERT] Asistente de Crédito
-2026-02-24 04:00:49,707 | INFO |  [INSERT] Representante Técnico Comercial - Babahoyo
-2026-02-24 04:00:49,752 | INFO |  [INSERT] Asesor Técnico Comercial - Guayas
-2026-02-24 04:00:49,805 | INFO |  [INSERT] Especialista de Nutrición - Sto Domingo
-2026-02-24 04:00:49,865 | INFO |  [INSERT] Especialista Técnico Eventual - Ganadería (Imbabura-Carchi)
-2026-02-24 04:00:49,912 | INFO |  [INSERT] Auxiliar de Bodega - Quevedo
-2026-02-24 04:00:49,959 | INFO |  [INSERT] Supervisor de Ventas Sierra - Mascotas
-2026-02-24 04:00:50,015 | INFO |  [INSERT] Analista de Trade Marketing - Guayaquil
-2026-02-24 04:00:50,064 | INFO |  [INSERT] Promotor de Mostrador - San Gabriel
-2026-02-24 04:00:50,116 | INFO |  [INSERT] Asistente Contable Eventual - Guayaquil
-2026-02-24 04:00:50,161 | INFO |  [INSERT] Asistente de Registro - UIO
-2026-02-24 04:00:50,210 | INFO |  [INSERT] Promotor Farma & Consumo - Santo Domingo
-2026-02-24 04:00:50,261 | INFO |  [INSERT] Coordinador de Trade Marketing (Nutrición Animal)
-2026-02-24 04:00:50,312 | INFO |  [INSERT] Jefe de Auditoría y Control
-2026-02-24 04:00:50,364 | INFO |  [INSERT] Visitador Médico - Línea de Femarelle Quito
-2026-02-24 04:00:50,418 | INFO |  [INSERT] Jefe de Marketing
-2026-02-24 04:00:50,477 | INFO |  [INSERT] Analista Financiero San Camilo - Guayaquil
-2026-02-24 04:00:50,525 | INFO |  [INSERT] Inspector de Calidad
-2026-02-24 22:14:13,280 | INFO |  [INSERT] Asesor Comercial Nutrición Animal - Machala
-2026-02-24 22:14:13,326 | INFO |  [INSERT] Promotor Zonal (Campo Abierto) - Pallatanga
-2026-02-24 22:14:13,373 | INFO |  [INSERT] Asistente de Logística - Sto Domingo
-2026-02-24 22:14:13,421 | INFO |  [INSERT] Asistente de Crédito
-2026-02-24 22:14:13,475 | INFO |  [INSERT] Representante Técnico Comercial - Babahoyo
-2026-02-24 22:14:13,525 | INFO |  [INSERT] Asesor Técnico Comercial - Guayas
-2026-02-24 22:14:13,573 | INFO |  [INSERT] Especialista de Nutrición - Sto Domingo
-2026-02-24 22:14:13,622 | INFO |  [INSERT] Especialista Técnico Eventual - Ganadería (Imbabura-Carchi)
-2026-02-24 22:14:13,674 | INFO |  [INSERT] Auxiliar de Bodega - Quevedo
-2026-02-24 22:14:13,731 | INFO |  [INSERT] Supervisor de Ventas Sierra - Mascotas
-2026-02-24 22:14:13,778 | INFO |  [INSERT] Analista de Trade Marketing - Guayaquil
-2026-02-24 22:14:13,824 | INFO |  [INSERT] Promotor de Mostrador - San Gabriel
-2026-02-24 22:14:13,870 | INFO |  [INSERT] Asistente Contable Eventual - Guayaquil
-2026-02-24 22:14:13,919 | INFO |  [INSERT] Asistente de Registro - UIO
-2026-02-24 22:14:13,963 | INFO |  [INSERT] Promotor Farma & Consumo - Santo Domingo
-2026-02-24 22:14:14,011 | INFO |  [INSERT] Coordinador de Trade Marketing (Nutrición Animal)
-2026-02-24 22:14:14,057 | INFO |  [INSERT] Jefe de Auditoría y Control
-2026-02-24 22:14:14,103 | INFO |  [INSERT] Visitador Médico - Línea de Femarelle Quito
-2026-02-24 22:14:14,151 | INFO |  [INSERT] Jefe de Marketing
-2026-02-24 22:14:14,204 | INFO |  [INSERT] Analista Financiero San Camilo - Guayaquil
+2026-02-24 23:12:13,358 | INFO |  UUID:699dd506ba1bdcc8a3692e18 | [INSERT] Asesor Comercial Nutrición Animal - Machala
+2026-02-24 23:12:13,411 | INFO |  UUID:699c666be544df9f2c891147 | [INSERT] Promotor Zonal (Campo Abierto) - Pallatanga
+2026-02-24 23:12:13,467 | INFO |  UUID:6998f75ed60a76f5d06c8025 | [INSERT] Asistente de Logística - Sto Domingo
+2026-02-24 23:12:13,519 | INFO |  UUID:69963f961ec952dd44e68e7f | [INSERT] Asistente de Crédito
+2026-02-24 23:12:13,570 | INFO |  UUID:699602e41360c90b993c8de7 | [INSERT] Representante Técnico Comercial - Babahoyo
+2026-02-24 23:12:13,620 | INFO |  UUID:6996014cb622842e6a1c4b60 | [INSERT] Asesor Técnico Comercial - Guayas
+2026-02-24 23:12:13,672 | INFO |  UUID:6995fe0e870808e419517dd9 | [INSERT] Especialista de Nutrición - Sto Domingo
+2026-02-24 23:12:13,732 | INFO |  UUID:698fac6507fc0aa278977d21 | [INSERT] Especialista Técnico Eventual - Ganadería (Imbabura-Carchi)
+2026-02-24 23:12:13,786 | INFO |  UUID:698e4ed9a00878ad1082cb95 | [INSERT] Auxiliar de Bodega - Quevedo
+2026-02-24 23:12:13,841 | INFO |  UUID:698ccbbbafb7e26a5fb9f3da | [INSERT] Supervisor de Ventas Sierra - Mascotas
+2026-02-24 23:12:13,892 | INFO |  UUID:6983abc95d009ed3a6449925 | [INSERT] Analista de Trade Marketing - Guayaquil
+2026-02-24 23:12:13,943 | INFO |  UUID:6983a42624ceb08bdeceb2c7 | [INSERT] Promotor de Mostrador - San Gabriel
+2026-02-24 23:12:14,021 | INFO |  UUID:69839bf01e7e9066c4aacb62 | [INSERT] Asistente Contable Eventual - Guayaquil
+2026-02-24 23:12:14,074 | INFO |  UUID:69827b211b44275096112d73 | [INSERT] Asistente de Registro - UIO
+2026-02-24 23:12:14,126 | INFO |  UUID:6980f1b09f3d4e331e3087c4 | [INSERT] Promotor Farma & Consumo - Santo Domingo
+2026-02-24 23:12:14,177 | INFO |  UUID:697d235915b8d0c38a431199 | [INSERT] Coordinador de Trade Marketing (Nutrición Animal)
+2026-02-24 23:12:14,237 | INFO |  UUID:697d1101645382b445784b63 | [INSERT] Jefe de Auditoría y Control
+2026-02-24 23:12:14,288 | INFO |  UUID:697403902166419583b7bcb2 | [INSERT] Visitador Médico - Línea de Femarelle Quito
+2026-02-24 23:12:14,337 | INFO |  UUID:69728d5d87b8006f5b29e406 | [INSERT] Jefe de Marketing
+2026-02-24 23:12:14,387 | INFO |  UUID:6970edfb003a41a0e2ade3ef | [INSERT] Analista Financiero San Camilo - Guayaquil
+2026-02-24 23:13:40,014 | INFO |  UUID:699dd506ba1bdcc8a3692e18 | [UPDATE] Asesor Comercial Nutrición Animal - Machala
+2026-02-24 23:13:40,058 | INFO |  UUID:699c666be544df9f2c891147 | [UPDATE] Promotor Zonal (Campo Abierto) - Pallatanga
+2026-02-24 23:13:40,102 | INFO |  UUID:6998f75ed60a76f5d06c8025 | [UPDATE] Asistente de Logística - Sto Domingo
+2026-02-24 23:13:40,151 | INFO |  UUID:69963f961ec952dd44e68e7f | [UPDATE] Asistente de Crédito
+2026-02-24 23:13:40,198 | INFO |  UUID:699602e41360c90b993c8de7 | [UPDATE] Representante Técnico Comercial - Babahoyo
+2026-02-24 23:13:40,243 | INFO |  UUID:6996014cb622842e6a1c4b60 | [UPDATE] Asesor Técnico Comercial - Guayas
+2026-02-24 23:13:40,289 | INFO |  UUID:6995fe0e870808e419517dd9 | [UPDATE] Especialista de Nutrición - Sto Domingo
+2026-02-24 23:13:40,337 | INFO |  UUID:698fac6507fc0aa278977d21 | [UPDATE] Especialista Técnico Eventual - Ganadería (Imbabura-Carchi)
+2026-02-24 23:13:40,385 | INFO |  UUID:698e4ed9a00878ad1082cb95 | [UPDATE] Auxiliar de Bodega - Quevedo
+2026-02-24 23:13:40,441 | INFO |  UUID:698ccbbbafb7e26a5fb9f3da | [UPDATE] Supervisor de Ventas Sierra - Mascotas
+2026-02-24 23:13:40,488 | INFO |  UUID:6983abc95d009ed3a6449925 | [UPDATE] Analista de Trade Marketing - Guayaquil
+2026-02-24 23:13:40,544 | INFO |  UUID:6983a42624ceb08bdeceb2c7 | [UPDATE] Promotor de Mostrador - San Gabriel
+2026-02-24 23:13:40,592 | INFO |  UUID:69839bf01e7e9066c4aacb62 | [UPDATE] Asistente Contable Eventual - Guayaquil
+2026-02-24 23:13:40,640 | INFO |  UUID:69827b211b44275096112d73 | [UPDATE] Asistente de Registro - UIO
+2026-02-24 23:13:40,690 | INFO |  UUID:6980f1b09f3d4e331e3087c4 | [UPDATE] Promotor Farma & Consumo - Santo Domingo
+2026-02-24 23:13:40,738 | INFO |  UUID:697d235915b8d0c38a431199 | [UPDATE] Coordinador de Trade Marketing (Nutrición Animal)
+2026-02-24 23:13:40,785 | INFO |  UUID:697d1101645382b445784b63 | [UPDATE] Jefe de Auditoría y Control
+2026-02-24 23:13:40,835 | INFO |  [CLEANUP] Se desactivaron 3 vacantes:
+2026-02-24 23:13:40,840 | WARNING |  UUID:697d1101645382b445784b63 | [OFFLINE] -> Visitador Médico - Línea de Femarelle Quito
+2026-02-24 23:13:40,842 | WARNING |  UUID:697d1101645382b445784b63 | [OFFLINE] -> Jefe de Marketing
+2026-02-24 23:13:40,849 | WARNING |  UUID:697d1101645382b445784b63 | [OFFLINE] -> Analista Financiero San Camilo - Guayaquil

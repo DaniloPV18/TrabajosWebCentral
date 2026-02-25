@@ -1,240 +1,480 @@
-2026-02-24 22:13:40,853 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:40,859 | INFO |    |-- TITULO: Analista de nomina
-2026-02-24 22:13:40,869 | INFO |    |-- ÁREA: Recursos Humanos y Capacitación / Compensación y Planilla
-2026-02-24 22:13:40,872 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:13:40,878 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:40,885 | INFO |  ----------------------------------------
-2026-02-24 22:13:41,268 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:41,270 | INFO |    |-- TITULO: Pasante de Diseño Gráfico
-2026-02-24 22:13:41,282 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
-2026-02-24 22:13:41,287 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:13:41,293 | INFO |    |-- CONTRATO: Practica | MODALIDAD: Presencial
-2026-02-24 22:13:41,297 | INFO |  ----------------------------------------
-2026-02-24 22:13:41,611 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:41,616 | INFO |    |-- TITULO: Administrador de tiendas - Sierra
-2026-02-24 22:13:41,619 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:13:41,624 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:13:41,630 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
-2026-02-24 22:13:41,634 | INFO |  ----------------------------------------
-2026-02-24 22:13:41,916 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:41,922 | INFO |    |-- TITULO: Administrador de tiendas - Costa
-2026-02-24 22:13:41,930 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:13:41,930 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:13:41,935 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
-2026-02-24 22:13:41,942 | INFO |  ----------------------------------------
-2026-02-24 22:13:42,255 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:42,257 | INFO |    |-- TITULO: Diseñador Gráfico
-2026-02-24 22:13:42,265 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
-2026-02-24 22:13:42,268 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:13:42,274 | INFO |    |-- CONTRATO: Eventual | MODALIDAD: Presencial
-2026-02-24 22:13:42,281 | INFO |  ----------------------------------------
-2026-02-24 22:13:42,591 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:42,655 | INFO |    |-- TITULO: Vendedores de tienda Centro
-2026-02-24 22:13:42,656 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:13:42,656 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:42,671 | INFO |  ----------------------------------------
-2026-02-24 22:13:42,672 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:42,902 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:42,906 | INFO |    |-- TITULO: Vendedores de tienda Latacunga
-2026-02-24 22:13:42,911 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:13:42,918 | INFO |    |-- UBICACIÓN: Latacunga, Cotopaxi, Ecuador
-2026-02-24 22:13:42,919 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
-2026-02-24 22:13:42,925 | INFO |  ----------------------------------------
-2026-02-24 22:13:43,229 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:43,230 | INFO |    |-- TITULO: Pasante de Edición
-2026-02-24 22:13:43,238 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
-2026-02-24 22:13:43,243 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:13:43,246 | INFO |    |-- CONTRATO: Practica | MODALIDAD: Presencial
-2026-02-24 22:13:43,250 | INFO |  ----------------------------------------
-2026-02-24 22:13:43,624 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:43,644 | INFO |    |-- TITULO: Vendedores de tienda Machala
-2026-02-24 22:13:43,648 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:43,655 | INFO |    |-- UBICACIÓN: Machala, El Oro, Ecuador
-2026-02-24 22:13:43,667 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:43,678 | INFO |  ----------------------------------------
-2026-02-24 22:13:44,272 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:44,282 | INFO |    |-- TITULO: Vendedores de tienda - Mall del Pacífico Manta
-2026-02-24 22:13:44,294 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:44,311 | INFO |    |-- UBICACIÓN: Manta, Manabí, Ecuador
-2026-02-24 22:13:44,315 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:44,328 | INFO |  ----------------------------------------
-2026-02-24 22:13:44,961 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:44,966 | INFO |    |-- TITULO: Vendedores de tienda - Paseo Shopping Manta
-2026-02-24 22:13:44,984 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:44,993 | INFO |    |-- UBICACIÓN: Manta, Manabí, Ecuador
-2026-02-24 22:13:45,001 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:45,017 | INFO |  ----------------------------------------
-2026-02-24 22:13:45,513 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:45,530 | INFO |    |-- TITULO: Vendedores de tienda Paseo Shopping Playas
-2026-02-24 22:13:45,542 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:13:45,547 | INFO |    |-- UBICACIÓN: General Villamil, Guayas, Ecuador
-2026-02-24 22:13:45,555 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
-2026-02-24 22:13:45,556 | INFO |  ----------------------------------------
-2026-02-24 22:13:46,312 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:46,373 | INFO |    |-- TITULO: Vendedores de tienda - Portoviejo
-2026-02-24 22:13:46,467 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:46,469 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:46,473 | INFO |    |-- UBICACIÓN: Portoviejo, Manabí, Ecuador
-2026-02-24 22:13:46,476 | INFO |  ----------------------------------------
-2026-02-24 22:13:47,115 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:47,130 | INFO |    |-- TITULO: Vendedores de tienda Paseo Shopping Quevedo
-2026-02-24 22:13:47,149 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:47,198 | INFO |    |-- UBICACIÓN: Quevedo, Los Ríos, Ecuador
-2026-02-24 22:13:47,211 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:47,244 | INFO |  ----------------------------------------
-2026-02-24 22:13:48,093 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:48,131 | INFO |    |-- TITULO: Vendedores de tienda Condado Shopping
-2026-02-24 22:13:48,152 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:48,166 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:13:48,179 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:48,202 | INFO |  ----------------------------------------
-2026-02-24 22:13:49,092 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:49,120 | INFO |    |-- TITULO: Vendedores de tienda El Recreo
-2026-02-24 22:13:49,167 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:49,193 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:13:49,210 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:49,228 | INFO |  ----------------------------------------
-2026-02-24 22:13:49,573 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:49,580 | INFO |    |-- TITULO: Vendedores de tienda CCI
-2026-02-24 22:13:49,588 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:49,594 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:13:49,598 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:49,609 | INFO |  ----------------------------------------
-2026-02-24 22:13:49,815 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:49,822 | INFO |    |-- TITULO: Vendedores de tienda San Luis Shopping
-2026-02-24 22:13:49,831 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:49,836 | INFO |    |-- UBICACIÓN: Sangolquí, Pichincha, Ecuador
-2026-02-24 22:13:49,843 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:49,851 | INFO |  ----------------------------------------
-2026-02-24 22:13:50,059 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:50,064 | INFO |    |-- TITULO: Vendedores de tienda Granados Plaza
-2026-02-24 22:13:50,073 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:50,076 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:13:50,085 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:50,092 | INFO |  ----------------------------------------
-2026-02-24 22:13:50,380 | INFO |  V_ENCONTRADA: GRUPOPALMON
-2026-02-24 22:13:50,405 | INFO |    |-- TITULO: Vendedores de tienda - Quicentro Sur
-2026-02-24 22:13:50,406 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:13:50,414 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:13:50,418 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:13:50,421 | INFO |  ----------------------------------------
-2026-02-24 22:14:03,756 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:03,758 | INFO |    |-- TITULO: Asesor Comercial Nutrición Animal - Machala
-2026-02-24 22:14:03,762 | INFO |    |-- ÁREA: Salud, Medicina y Farmacia / Veterinaria
-2026-02-24 22:14:03,767 | INFO |    |-- UBICACIÓN: Machala, El Oro, Ecuador
-2026-02-24 22:14:03,772 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:03,778 | INFO |  ----------------------------------------
-2026-02-24 22:14:04,080 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:04,087 | INFO |    |-- TITULO: Promotor Zonal (Campo Abierto) - Pallatanga
-2026-02-24 22:14:04,090 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:14:04,095 | INFO |    |-- UBICACIÓN: Pallatanga, Chimborazo, Ecuador
-2026-02-24 22:14:04,099 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:04,105 | INFO |  ----------------------------------------
-2026-02-24 22:14:04,417 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:04,417 | INFO |    |-- TITULO: Asistente de Logística - Sto Domingo
-2026-02-24 22:14:04,427 | INFO |    |-- ÁREA: Abastecimiento y Logística / Logística
-2026-02-24 22:14:04,427 | INFO |    |-- UBICACIÓN: Santo Domingo de los Colorados, Santo Domingo de los Tsachilas, Ecuador
-2026-02-24 22:14:04,433 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:04,437 | INFO |  ----------------------------------------
-2026-02-24 22:14:04,743 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:04,755 | INFO |    |-- TITULO: Asistente de Crédito
-2026-02-24 22:14:04,765 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Créditos y Cobranzas
-2026-02-24 22:14:04,777 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:14:04,794 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:04,813 | INFO |  ----------------------------------------
-2026-02-24 22:14:05,223 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:05,232 | INFO |    |-- TITULO: Representante Técnico Comercial - Babahoyo
-2026-02-24 22:14:05,242 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:14:05,252 | INFO |    |-- UBICACIÓN: Babahoyo, Los Ríos, Ecuador
-2026-02-24 22:14:05,262 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:05,276 | INFO |  ----------------------------------------
-2026-02-24 22:14:05,686 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:05,711 | INFO |    |-- TITULO: Asesor Técnico Comercial - Guayas
-2026-02-24 22:14:05,718 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:14:05,733 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:14:05,744 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:05,765 | INFO |  ----------------------------------------
-2026-02-24 22:14:06,391 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:06,391 | INFO |    |-- TITULO: Especialista de Nutrición - Sto Domingo
-2026-02-24 22:14:06,399 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:14:06,404 | INFO |    |-- UBICACIÓN: Babahoyo, Los Ríos, Ecuador
-2026-02-24 22:14:06,409 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:06,416 | INFO |  ----------------------------------------
-2026-02-24 22:14:06,965 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:07,016 | INFO |    |-- TITULO: Especialista Técnico Eventual - Ganadería (Imbabura-Carchi)
-2026-02-24 22:14:07,027 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:14:07,036 | INFO |    |-- UBICACIÓN: Ibarra, Imbabura, Ecuador
-2026-02-24 22:14:07,044 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:07,053 | INFO |  ----------------------------------------
-2026-02-24 22:14:07,963 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:07,980 | INFO |    |-- TITULO: Auxiliar de Bodega - Quevedo
-2026-02-24 22:14:07,996 | INFO |    |-- ÁREA: Abastecimiento y Logística / Logística
-2026-02-24 22:14:08,021 | INFO |    |-- UBICACIÓN: Quevedo, Los Ríos, Ecuador
-2026-02-24 22:14:08,022 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:08,040 | INFO |  ----------------------------------------
-2026-02-24 22:14:09,123 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:09,149 | INFO |    |-- TITULO: Supervisor de Ventas Sierra - Mascotas
-2026-02-24 22:14:09,178 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:14:09,222 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:14:09,244 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:09,263 | INFO |  ----------------------------------------
-2026-02-24 22:14:10,298 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:10,305 | INFO |    |-- TITULO: Analista de Trade Marketing - Guayaquil
-2026-02-24 22:14:10,309 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
-2026-02-24 22:14:10,317 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:14:10,327 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:10,333 | INFO |  ----------------------------------------
-2026-02-24 22:14:10,565 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:10,571 | INFO |    |-- TITULO: Promotor de Mostrador - San Gabriel
-2026-02-24 22:14:10,578 | INFO |    |-- ÁREA: Ingenierías / Ingeniería Agrónoma
-2026-02-24 22:14:10,581 | INFO |    |-- UBICACIÓN: San Gabriel, Carchi, Ecuador
-2026-02-24 22:14:10,588 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:10,593 | INFO |  ----------------------------------------
-2026-02-24 22:14:10,819 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:10,826 | INFO |    |-- TITULO: Asistente Contable Eventual - Guayaquil
-2026-02-24 22:14:10,841 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Contabilidad
-2026-02-24 22:14:10,857 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:14:10,873 | INFO |    |-- CONTRATO: Eventual | MODALIDAD: Presencial
-2026-02-24 22:14:10,883 | INFO |  ----------------------------------------
-2026-02-24 22:14:11,169 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:11,172 | INFO |    |-- TITULO: Asistente de Registro - UIO
-2026-02-24 22:14:11,176 | INFO |    |-- ÁREA: Oficios y Otros / Otros
-2026-02-24 22:14:11,180 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:14:11,188 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:11,189 | INFO |  ----------------------------------------
-2026-02-24 22:14:11,461 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:11,468 | INFO |    |-- TITULO: Promotor Farma & Consumo - Santo Domingo
-2026-02-24 22:14:11,474 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
-2026-02-24 22:14:11,479 | INFO |    |-- UBICACIÓN: Santo Domingo de los Colorados, Santo Domingo de los Tsachilas, Ecuador
-2026-02-24 22:14:11,486 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:11,491 | INFO |  ----------------------------------------
-2026-02-24 22:14:11,764 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:11,768 | INFO |    |-- TITULO: Coordinador de Trade Marketing (Nutrición Animal)
-2026-02-24 22:14:11,777 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
-2026-02-24 22:14:11,783 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:14:11,784 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:11,788 | INFO |  ----------------------------------------
-2026-02-24 22:14:12,066 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:12,071 | INFO |    |-- TITULO: Jefe de Auditoría y Control
-2026-02-24 22:14:12,078 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Finanzas
-2026-02-24 22:14:12,081 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:14:12,086 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:12,089 | INFO |  ----------------------------------------
-2026-02-24 22:14:12,369 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:12,371 | INFO |    |-- TITULO: Visitador Médico - Línea de Femarelle Quito
-2026-02-24 22:14:12,375 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
-2026-02-24 22:14:12,381 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:14:12,388 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:12,391 | INFO |  ----------------------------------------
-2026-02-24 22:14:12,661 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:12,661 | INFO |    |-- TITULO: Jefe de Marketing
-2026-02-24 22:14:12,668 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
-2026-02-24 22:14:12,677 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
-2026-02-24 22:14:12,682 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:12,686 | INFO |  ----------------------------------------
-2026-02-24 22:14:12,956 | INFO |  V_ENCONTRADA: ECUAQUIMICA
-2026-02-24 22:14:12,961 | INFO |    |-- TITULO: Analista Financiero San Camilo - Guayaquil
-2026-02-24 22:14:12,967 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Finanzas
-2026-02-24 22:14:12,972 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
-2026-02-24 22:14:12,981 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
-2026-02-24 22:14:12,981 | INFO |  ----------------------------------------
+2026-02-24 23:11:39,870 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:39,876 | INFO |    |-- TITULO: Pasante de Talento Humano
+2026-02-24 23:11:39,884 | INFO |    |-- ÁREA: Recursos Humanos y Capacitación / Recursos Humanos
+2026-02-24 23:11:39,891 | INFO |    |-- CONTRATO: Pasantía | MODALIDAD: Presencial
+2026-02-24 23:11:39,892 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:11:39,897 | INFO |  ----------------------------------------
+2026-02-24 23:11:40,283 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:40,288 | INFO |    |-- TITULO: Analista de nomina
+2026-02-24 23:11:40,292 | INFO |    |-- ÁREA: Recursos Humanos y Capacitación / Compensación y Planilla
+2026-02-24 23:11:40,296 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:11:40,305 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:40,308 | INFO |  ----------------------------------------
+2026-02-24 23:11:40,632 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:40,637 | INFO |    |-- TITULO: Pasante de Diseño Gráfico
+2026-02-24 23:11:40,641 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
+2026-02-24 23:11:40,646 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:11:40,651 | INFO |    |-- CONTRATO: Practica | MODALIDAD: Presencial
+2026-02-24 23:11:40,656 | INFO |  ----------------------------------------
+2026-02-24 23:11:40,960 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:40,971 | INFO |    |-- TITULO: Administrador de tiendas - Sierra
+2026-02-24 23:11:40,983 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:11:40,985 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:11:40,992 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:11:40,996 | INFO |  ----------------------------------------
+2026-02-24 23:11:41,311 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:41,316 | INFO |    |-- TITULO: Administrador de tiendas - Costa
+2026-02-24 23:11:41,323 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:11:41,330 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:11:41,337 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:11:41,339 | INFO |  ----------------------------------------
+2026-02-24 23:11:41,645 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:41,648 | INFO |    |-- TITULO: Diseñador Gráfico
+2026-02-24 23:11:41,655 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
+2026-02-24 23:11:41,662 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:11:41,666 | INFO |    |-- CONTRATO: Eventual | MODALIDAD: Presencial
+2026-02-24 23:11:41,673 | INFO |  ----------------------------------------
+2026-02-24 23:11:42,064 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:42,069 | INFO |    |-- TITULO: Vendedores de tienda Centro
+2026-02-24 23:11:42,074 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:42,080 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:11:42,088 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:42,092 | INFO |  ----------------------------------------
+2026-02-24 23:11:42,337 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:42,344 | INFO |    |-- TITULO: Vendedores de tienda Latacunga
+2026-02-24 23:11:42,351 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:11:42,351 | INFO |    |-- UBICACIÓN: Latacunga, Cotopaxi, Ecuador
+2026-02-24 23:11:42,356 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:11:42,359 | INFO |  ----------------------------------------
+2026-02-24 23:11:42,759 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:42,765 | INFO |    |-- TITULO: Pasante de Edición
+2026-02-24 23:11:42,768 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
+2026-02-24 23:11:42,774 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:11:42,781 | INFO |    |-- CONTRATO: Practica | MODALIDAD: Presencial
+2026-02-24 23:11:42,793 | INFO |  ----------------------------------------
+2026-02-24 23:11:43,394 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:43,407 | INFO |    |-- TITULO: Vendedores de tienda Machala
+2026-02-24 23:11:43,418 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:43,433 | INFO |    |-- UBICACIÓN: Machala, El Oro, Ecuador
+2026-02-24 23:11:43,449 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:43,458 | INFO |  ----------------------------------------
+2026-02-24 23:11:44,127 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:44,137 | INFO |    |-- TITULO: Vendedores de tienda - Mall del Pacífico Manta
+2026-02-24 23:11:44,152 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:44,164 | INFO |    |-- UBICACIÓN: Manta, Manabí, Ecuador
+2026-02-24 23:11:44,165 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:44,186 | INFO |  ----------------------------------------
+2026-02-24 23:11:45,043 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:45,082 | INFO |    |-- TITULO: Vendedores de tienda - Paseo Shopping Manta
+2026-02-24 23:11:45,101 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:45,111 | INFO |    |-- UBICACIÓN: Manta, Manabí, Ecuador
+2026-02-24 23:11:45,119 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:45,135 | INFO |  ----------------------------------------
+2026-02-24 23:11:45,702 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:45,720 | INFO |    |-- TITULO: Vendedores de tienda Paseo Shopping Playas
+2026-02-24 23:11:45,746 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:11:45,763 | INFO |    |-- UBICACIÓN: General Villamil, Guayas, Ecuador
+2026-02-24 23:11:45,813 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:11:45,840 | INFO |  ----------------------------------------
+2026-02-24 23:11:46,643 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:46,660 | INFO |    |-- TITULO: Vendedores de tienda - Portoviejo
+2026-02-24 23:11:46,677 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:46,689 | INFO |    |-- UBICACIÓN: Portoviejo, Manabí, Ecuador
+2026-02-24 23:11:46,704 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:46,720 | INFO |  ----------------------------------------
+2026-02-24 23:11:47,514 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:47,532 | INFO |    |-- TITULO: Vendedores de tienda Paseo Shopping Quevedo
+2026-02-24 23:11:47,553 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:47,571 | INFO |    |-- UBICACIÓN: Quevedo, Los Ríos, Ecuador
+2026-02-24 23:11:47,588 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:47,602 | INFO |  ----------------------------------------
+2026-02-24 23:11:48,199 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:48,212 | INFO |    |-- TITULO: Vendedores de tienda Condado Shopping
+2026-02-24 23:11:48,213 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:48,220 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:11:48,225 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:48,233 | INFO |  ----------------------------------------
+2026-02-24 23:11:48,448 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:48,455 | INFO |    |-- TITULO: Vendedores de tienda El Recreo
+2026-02-24 23:11:48,460 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:48,468 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:11:48,475 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:48,479 | INFO |  ----------------------------------------
+2026-02-24 23:11:48,681 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:48,684 | INFO |    |-- TITULO: Vendedores de tienda CCI
+2026-02-24 23:11:48,691 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:48,696 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:11:48,711 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:48,719 | INFO |  ----------------------------------------
+2026-02-24 23:11:48,991 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:48,994 | INFO |    |-- TITULO: Vendedores de tienda San Luis Shopping
+2026-02-24 23:11:48,999 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:49,008 | INFO |    |-- UBICACIÓN: Sangolquí, Pichincha, Ecuador
+2026-02-24 23:11:49,008 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:49,014 | INFO |  ----------------------------------------
+2026-02-24 23:11:49,346 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:11:49,348 | INFO |    |-- TITULO: Vendedores de tienda Granados Plaza
+2026-02-24 23:11:49,354 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:11:49,360 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:11:49,365 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:11:49,371 | INFO |  ----------------------------------------
+2026-02-24 23:12:03,257 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:03,261 | INFO |    |-- TITULO: Asesor Comercial Nutrición Animal - Machala
+2026-02-24 23:12:03,274 | INFO |    |-- ÁREA: Salud, Medicina y Farmacia / Veterinaria
+2026-02-24 23:12:03,282 | INFO |    |-- UBICACIÓN: Machala, El Oro, Ecuador
+2026-02-24 23:12:03,326 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:03,329 | INFO |  ----------------------------------------
+2026-02-24 23:12:03,634 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:03,641 | INFO |    |-- TITULO: Promotor Zonal (Campo Abierto) - Pallatanga
+2026-02-24 23:12:03,650 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:12:03,666 | INFO |    |-- UBICACIÓN: Pallatanga, Chimborazo, Ecuador
+2026-02-24 23:12:03,707 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:03,729 | INFO |  ----------------------------------------
+2026-02-24 23:12:04,343 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:04,352 | INFO |    |-- TITULO: Asistente de Logística - Sto Domingo
+2026-02-24 23:12:04,370 | INFO |    |-- ÁREA: Abastecimiento y Logística / Logística
+2026-02-24 23:12:04,397 | INFO |    |-- UBICACIÓN: Santo Domingo de los Colorados, Santo Domingo de los Tsachilas, Ecuador
+2026-02-24 23:12:04,408 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:04,424 | INFO |  ----------------------------------------
+2026-02-24 23:12:05,360 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:05,365 | INFO |    |-- TITULO: Asistente de Crédito
+2026-02-24 23:12:05,371 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Créditos y Cobranzas
+2026-02-24 23:12:05,383 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:12:05,390 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:05,399 | INFO |  ----------------------------------------
+2026-02-24 23:12:06,226 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:06,270 | INFO |    |-- TITULO: Representante Técnico Comercial - Babahoyo
+2026-02-24 23:12:06,281 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:12:06,292 | INFO |    |-- UBICACIÓN: Babahoyo, Los Ríos, Ecuador
+2026-02-24 23:12:06,317 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:06,325 | INFO |  ----------------------------------------
+2026-02-24 23:12:07,108 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:07,130 | INFO |    |-- TITULO: Asesor Técnico Comercial - Guayas
+2026-02-24 23:12:07,142 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:12:07,160 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:12:07,181 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:07,200 | INFO |  ----------------------------------------
+2026-02-24 23:12:08,096 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:08,102 | INFO |    |-- TITULO: Especialista de Nutrición - Sto Domingo
+2026-02-24 23:12:08,120 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:12:08,132 | INFO |    |-- UBICACIÓN: Babahoyo, Los Ríos, Ecuador
+2026-02-24 23:12:08,164 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:08,199 | INFO |  ----------------------------------------
+2026-02-24 23:12:08,937 | INFO |    |-- TITULO: Especialista Técnico Eventual - Ganadería (Imbabura-Carchi)
+2026-02-24 23:12:08,945 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:08,948 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:12:08,955 | INFO |    |-- UBICACIÓN: Ibarra, Imbabura, Ecuador
+2026-02-24 23:12:08,960 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:08,966 | INFO |  ----------------------------------------
+2026-02-24 23:12:09,208 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:09,210 | INFO |    |-- TITULO: Auxiliar de Bodega - Quevedo
+2026-02-24 23:12:09,218 | INFO |    |-- ÁREA: Abastecimiento y Logística / Logística
+2026-02-24 23:12:09,226 | INFO |    |-- UBICACIÓN: Quevedo, Los Ríos, Ecuador
+2026-02-24 23:12:09,230 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:09,239 | INFO |  ----------------------------------------
+2026-02-24 23:12:09,485 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:09,494 | INFO |    |-- TITULO: Supervisor de Ventas Sierra - Mascotas
+2026-02-24 23:12:09,507 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:12:09,508 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:12:09,519 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:09,535 | INFO |  ----------------------------------------
+2026-02-24 23:12:09,825 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:09,832 | INFO |    |-- TITULO: Analista de Trade Marketing - Guayaquil
+2026-02-24 23:12:09,839 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
+2026-02-24 23:12:09,852 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:12:09,858 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:09,864 | INFO |  ----------------------------------------
+2026-02-24 23:12:10,200 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:10,204 | INFO |    |-- TITULO: Promotor de Mostrador - San Gabriel
+2026-02-24 23:12:10,206 | INFO |    |-- ÁREA: Ingenierías / Ingeniería Agrónoma
+2026-02-24 23:12:10,212 | INFO |    |-- UBICACIÓN: San Gabriel, Carchi, Ecuador
+2026-02-24 23:12:10,216 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:10,222 | INFO |  ----------------------------------------
+2026-02-24 23:12:10,521 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:10,526 | INFO |    |-- TITULO: Asistente Contable Eventual - Guayaquil
+2026-02-24 23:12:10,537 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Contabilidad
+2026-02-24 23:12:10,537 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:12:10,543 | INFO |    |-- CONTRATO: Eventual | MODALIDAD: Presencial
+2026-02-24 23:12:10,549 | INFO |  ----------------------------------------
+2026-02-24 23:12:10,865 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:10,867 | INFO |    |-- TITULO: Asistente de Registro - UIO
+2026-02-24 23:12:10,872 | INFO |    |-- ÁREA: Oficios y Otros / Otros
+2026-02-24 23:12:10,885 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:12:10,893 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:10,900 | INFO |  ----------------------------------------
+2026-02-24 23:12:11,228 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:11,229 | INFO |    |-- TITULO: Promotor Farma & Consumo - Santo Domingo
+2026-02-24 23:12:11,235 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:12:11,241 | INFO |    |-- UBICACIÓN: Santo Domingo de los Colorados, Santo Domingo de los Tsachilas, Ecuador
+2026-02-24 23:12:11,247 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:11,253 | INFO |  ----------------------------------------
+2026-02-24 23:12:11,585 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:11,587 | INFO |    |-- TITULO: Coordinador de Trade Marketing (Nutrición Animal)
+2026-02-24 23:12:11,596 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
+2026-02-24 23:12:11,597 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:12:11,604 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:11,611 | INFO |  ----------------------------------------
+2026-02-24 23:12:11,995 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:12,001 | INFO |    |-- TITULO: Jefe de Auditoría y Control
+2026-02-24 23:12:12,004 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Finanzas
+2026-02-24 23:12:12,011 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:12:12,015 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:12,020 | INFO |  ----------------------------------------
+2026-02-24 23:12:12,337 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:12,341 | INFO |    |-- TITULO: Visitador Médico - Línea de Femarelle Quito
+2026-02-24 23:12:12,342 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:12:12,351 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:12:12,353 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:12,359 | INFO |  ----------------------------------------
+2026-02-24 23:12:12,697 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:12,706 | INFO |    |-- TITULO: Jefe de Marketing
+2026-02-24 23:12:12,716 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
+2026-02-24 23:12:12,717 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:12:12,722 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:12,729 | INFO |  ----------------------------------------
+2026-02-24 23:12:13,034 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:12:13,038 | INFO |    |-- TITULO: Analista Financiero San Camilo - Guayaquil
+2026-02-24 23:12:13,047 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Finanzas
+2026-02-24 23:12:13,048 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:12:13,055 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:12:13,059 | INFO |  ----------------------------------------
+2026-02-24 23:13:08,009 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:08,014 | INFO |    |-- TITULO: Pasante de Talento Humano
+2026-02-24 23:13:08,021 | INFO |    |-- ÁREA: Recursos Humanos y Capacitación / Recursos Humanos
+2026-02-24 23:13:08,026 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:08,035 | INFO |    |-- CONTRATO: Pasantía | MODALIDAD: Presencial
+2026-02-24 23:13:08,037 | INFO |  ----------------------------------------
+2026-02-24 23:13:08,365 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:08,369 | INFO |    |-- TITULO: Analista de nomina
+2026-02-24 23:13:08,374 | INFO |    |-- ÁREA: Recursos Humanos y Capacitación / Compensación y Planilla
+2026-02-24 23:13:08,381 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:08,388 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:08,394 | INFO |  ----------------------------------------
+2026-02-24 23:13:08,718 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:08,723 | INFO |    |-- TITULO: Pasante de Diseño Gráfico
+2026-02-24 23:13:08,729 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
+2026-02-24 23:13:08,733 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:08,739 | INFO |    |-- CONTRATO: Practica | MODALIDAD: Presencial
+2026-02-24 23:13:08,743 | INFO |  ----------------------------------------
+2026-02-24 23:13:09,050 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:09,054 | INFO |    |-- TITULO: Administrador de tiendas - Sierra
+2026-02-24 23:13:09,058 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:09,064 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:09,069 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:13:09,072 | INFO |  ----------------------------------------
+2026-02-24 23:13:09,356 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:09,361 | INFO |    |-- TITULO: Administrador de tiendas - Costa
+2026-02-24 23:13:09,371 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:09,377 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:09,381 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:13:09,386 | INFO |  ----------------------------------------
+2026-02-24 23:13:09,664 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:09,673 | INFO |    |-- TITULO: Diseñador Gráfico
+2026-02-24 23:13:09,675 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
+2026-02-24 23:13:09,682 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:09,684 | INFO |    |-- CONTRATO: Eventual | MODALIDAD: Presencial
+2026-02-24 23:13:09,689 | INFO |  ----------------------------------------
+2026-02-24 23:13:09,967 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:09,972 | INFO |    |-- TITULO: Vendedores de tienda Centro
+2026-02-24 23:13:09,980 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:09,981 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:09,988 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:09,990 | INFO |  ----------------------------------------
+2026-02-24 23:13:10,199 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:10,203 | INFO |    |-- TITULO: Vendedores de tienda Latacunga
+2026-02-24 23:13:10,208 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:10,213 | INFO |    |-- UBICACIÓN: Latacunga, Cotopaxi, Ecuador
+2026-02-24 23:13:10,218 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:13:10,221 | INFO |  ----------------------------------------
+2026-02-24 23:13:10,510 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:10,514 | INFO |    |-- TITULO: Pasante de Edición
+2026-02-24 23:13:10,519 | INFO |    |-- ÁREA: Diseño / Diseño Gráfico
+2026-02-24 23:13:10,523 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:10,528 | INFO |    |-- CONTRATO: Practica | MODALIDAD: Presencial
+2026-02-24 23:13:10,533 | INFO |  ----------------------------------------
+2026-02-24 23:13:10,851 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:10,855 | INFO |    |-- TITULO: Vendedores de tienda Machala
+2026-02-24 23:13:10,859 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:10,863 | INFO |    |-- UBICACIÓN: Machala, El Oro, Ecuador
+2026-02-24 23:13:10,868 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:10,871 | INFO |  ----------------------------------------
+2026-02-24 23:13:11,328 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:11,335 | INFO |    |-- TITULO: Vendedores de tienda - Mall del Pacífico Manta
+2026-02-24 23:13:11,350 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:11,360 | INFO |    |-- UBICACIÓN: Manta, Manabí, Ecuador
+2026-02-24 23:13:11,372 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:11,384 | INFO |  ----------------------------------------
+2026-02-24 23:13:12,278 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:12,285 | INFO |    |-- TITULO: Vendedores de tienda - Paseo Shopping Manta
+2026-02-24 23:13:12,294 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:12,305 | INFO |    |-- UBICACIÓN: Manta, Manabí, Ecuador
+2026-02-24 23:13:12,315 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:12,326 | INFO |  ----------------------------------------
+2026-02-24 23:13:12,968 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:12,993 | INFO |    |-- TITULO: Vendedores de tienda Paseo Shopping Playas
+2026-02-24 23:13:12,997 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:13,019 | INFO |    |-- UBICACIÓN: General Villamil, Guayas, Ecuador
+2026-02-24 23:13:13,049 | INFO |    |-- CONTRATO: No especificado | MODALIDAD: Presencial
+2026-02-24 23:13:13,069 | INFO |  ----------------------------------------
+2026-02-24 23:13:14,143 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:14,157 | INFO |    |-- TITULO: Vendedores de tienda - Portoviejo
+2026-02-24 23:13:14,168 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:14,182 | INFO |    |-- UBICACIÓN: Portoviejo, Manabí, Ecuador
+2026-02-24 23:13:14,206 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:14,212 | INFO |  ----------------------------------------
+2026-02-24 23:13:14,967 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:14,985 | INFO |    |-- TITULO: Vendedores de tienda Paseo Shopping Quevedo
+2026-02-24 23:13:15,010 | INFO |    |-- UBICACIÓN: Quevedo, Los Ríos, Ecuador
+2026-02-24 23:13:15,010 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:15,028 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:15,044 | INFO |  ----------------------------------------
+2026-02-24 23:13:15,734 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:15,761 | INFO |    |-- TITULO: Vendedores de tienda Condado Shopping
+2026-02-24 23:13:15,786 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:15,819 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:15,855 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:15,873 | INFO |  ----------------------------------------
+2026-02-24 23:13:16,225 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:16,232 | INFO |    |-- TITULO: Vendedores de tienda El Recreo
+2026-02-24 23:13:16,241 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:16,249 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:16,253 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:16,260 | INFO |  ----------------------------------------
+2026-02-24 23:13:16,526 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:16,533 | INFO |    |-- TITULO: Vendedores de tienda CCI
+2026-02-24 23:13:16,541 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:16,546 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:16,553 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:16,560 | INFO |  ----------------------------------------
+2026-02-24 23:13:16,821 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:16,826 | INFO |    |-- TITULO: Vendedores de tienda San Luis Shopping
+2026-02-24 23:13:16,833 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:16,843 | INFO |    |-- UBICACIÓN: Sangolquí, Pichincha, Ecuador
+2026-02-24 23:13:16,843 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:16,850 | INFO |  ----------------------------------------
+2026-02-24 23:13:17,153 | INFO |  V_ENCONTRADA: GRUPOPALMON
+2026-02-24 23:13:17,163 | INFO |    |-- TITULO: Vendedores de tienda Granados Plaza
+2026-02-24 23:13:17,170 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:17,175 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:17,181 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:17,188 | INFO |  ----------------------------------------
+2026-02-24 23:13:30,746 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:30,751 | INFO |    |-- TITULO: Asesor Comercial Nutrición Animal - Machala
+2026-02-24 23:13:30,756 | INFO |    |-- ÁREA: Salud, Medicina y Farmacia / Veterinaria
+2026-02-24 23:13:30,759 | INFO |    |-- UBICACIÓN: Machala, El Oro, Ecuador
+2026-02-24 23:13:30,769 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:30,772 | INFO |  ----------------------------------------
+2026-02-24 23:13:31,069 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:31,073 | INFO |    |-- TITULO: Promotor Zonal (Campo Abierto) - Pallatanga
+2026-02-24 23:13:31,080 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:31,084 | INFO |    |-- UBICACIÓN: Pallatanga, Chimborazo, Ecuador
+2026-02-24 23:13:31,092 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:31,097 | INFO |  ----------------------------------------
+2026-02-24 23:13:31,380 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:31,385 | INFO |    |-- TITULO: Asistente de Logística - Sto Domingo
+2026-02-24 23:13:31,397 | INFO |    |-- ÁREA: Abastecimiento y Logística / Logística
+2026-02-24 23:13:31,407 | INFO |    |-- UBICACIÓN: Santo Domingo de los Colorados, Santo Domingo de los Tsachilas, Ecuador
+2026-02-24 23:13:31,420 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:31,436 | INFO |  ----------------------------------------
+2026-02-24 23:13:32,187 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:32,208 | INFO |    |-- TITULO: Asistente de Crédito
+2026-02-24 23:13:32,235 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Créditos y Cobranzas
+2026-02-24 23:13:32,259 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:32,339 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:32,342 | INFO |  ----------------------------------------
+2026-02-24 23:13:33,104 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:33,125 | INFO |    |-- TITULO: Representante Técnico Comercial - Babahoyo
+2026-02-24 23:13:33,129 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:33,142 | INFO |    |-- UBICACIÓN: Babahoyo, Los Ríos, Ecuador
+2026-02-24 23:13:33,151 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:33,177 | INFO |  ----------------------------------------
+2026-02-24 23:13:33,734 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:33,753 | INFO |    |-- TITULO: Asesor Técnico Comercial - Guayas
+2026-02-24 23:13:33,769 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:33,780 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:33,792 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:33,800 | INFO |  ----------------------------------------
+2026-02-24 23:13:34,444 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:34,456 | INFO |    |-- TITULO: Especialista de Nutrición - Sto Domingo
+2026-02-24 23:13:34,468 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:34,474 | INFO |    |-- UBICACIÓN: Babahoyo, Los Ríos, Ecuador
+2026-02-24 23:13:34,479 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:34,486 | INFO |  ----------------------------------------
+2026-02-24 23:13:35,130 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:35,141 | INFO |    |-- TITULO: Especialista Técnico Eventual - Ganadería (Imbabura-Carchi)
+2026-02-24 23:13:35,158 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:35,177 | INFO |    |-- UBICACIÓN: Ibarra, Imbabura, Ecuador
+2026-02-24 23:13:35,197 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:35,209 | INFO |  ----------------------------------------
+2026-02-24 23:13:35,879 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:35,891 | INFO |    |-- TITULO: Auxiliar de Bodega - Quevedo
+2026-02-24 23:13:35,904 | INFO |    |-- ÁREA: Abastecimiento y Logística / Logística
+2026-02-24 23:13:35,919 | INFO |    |-- UBICACIÓN: Quevedo, Los Ríos, Ecuador
+2026-02-24 23:13:35,931 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:35,944 | INFO |  ----------------------------------------
+2026-02-24 23:13:36,686 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:36,703 | INFO |    |-- TITULO: Supervisor de Ventas Sierra - Mascotas
+2026-02-24 23:13:36,727 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:36,764 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:36,787 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:36,810 | INFO |  ----------------------------------------
+2026-02-24 23:13:37,129 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:37,138 | INFO |    |-- TITULO: Analista de Trade Marketing - Guayaquil
+2026-02-24 23:13:37,142 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
+2026-02-24 23:13:37,150 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:37,153 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:37,157 | INFO |  ----------------------------------------
+2026-02-24 23:13:37,389 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:37,395 | INFO |    |-- TITULO: Promotor de Mostrador - San Gabriel
+2026-02-24 23:13:37,400 | INFO |    |-- ÁREA: Ingenierías / Ingeniería Agrónoma
+2026-02-24 23:13:37,405 | INFO |    |-- UBICACIÓN: San Gabriel, Carchi, Ecuador
+2026-02-24 23:13:37,410 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:37,415 | INFO |  ----------------------------------------
+2026-02-24 23:13:37,664 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:37,664 | INFO |    |-- TITULO: Asistente Contable Eventual - Guayaquil
+2026-02-24 23:13:37,669 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Contabilidad
+2026-02-24 23:13:37,678 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:37,679 | INFO |    |-- CONTRATO: Eventual | MODALIDAD: Presencial
+2026-02-24 23:13:37,685 | INFO |  ----------------------------------------
+2026-02-24 23:13:37,954 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:37,959 | INFO |    |-- TITULO: Asistente de Registro - UIO
+2026-02-24 23:13:37,962 | INFO |    |-- ÁREA: Oficios y Otros / Otros
+2026-02-24 23:13:37,966 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:37,971 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:37,975 | INFO |  ----------------------------------------
+2026-02-24 23:13:38,249 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:38,252 | INFO |    |-- TITULO: Promotor Farma & Consumo - Santo Domingo
+2026-02-24 23:13:38,256 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Comercial
+2026-02-24 23:13:38,261 | INFO |    |-- UBICACIÓN: Santo Domingo de los Colorados, Santo Domingo de los Tsachilas, Ecuador
+2026-02-24 23:13:38,265 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:38,269 | INFO |  ----------------------------------------
+2026-02-24 23:13:38,537 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:38,539 | INFO |    |-- TITULO: Coordinador de Trade Marketing (Nutrición Animal)
+2026-02-24 23:13:38,543 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
+2026-02-24 23:13:38,548 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:38,552 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:38,557 | INFO |  ----------------------------------------
+2026-02-24 23:13:38,825 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:38,833 | INFO |    |-- TITULO: Jefe de Auditoría y Control
+2026-02-24 23:13:38,834 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Finanzas
+2026-02-24 23:13:38,841 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:38,844 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:38,849 | INFO |  ----------------------------------------
+2026-02-24 23:13:39,118 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:39,121 | INFO |    |-- TITULO: Visitador Médico - Línea de Femarelle Quito
+2026-02-24 23:13:39,125 | INFO |    |-- ÁREA: Comercial, Ventas y Negocios / Ventas
+2026-02-24 23:13:39,133 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:39,135 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:39,140 | INFO |  ----------------------------------------
+2026-02-24 23:13:39,401 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:39,407 | INFO |    |-- TITULO: Jefe de Marketing
+2026-02-24 23:13:39,410 | INFO |    |-- ÁREA: Marketing y Publicidad / Marketing
+2026-02-24 23:13:39,415 | INFO |    |-- UBICACIÓN: Quito, Pichincha, Ecuador
+2026-02-24 23:13:39,422 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:39,423 | INFO |  ----------------------------------------
+2026-02-24 23:13:39,691 | INFO |  V_ENCONTRADA: ECUAQUIMICA
+2026-02-24 23:13:39,694 | INFO |    |-- TITULO: Analista Financiero San Camilo - Guayaquil
+2026-02-24 23:13:39,704 | INFO |    |-- UBICACIÓN: Guayaquil, Guayas, Ecuador
+2026-02-24 23:13:39,705 | INFO |    |-- ÁREA: Administración, Contabilidad y Finanzas / Finanzas
+2026-02-24 23:13:39,708 | INFO |    |-- CONTRATO: Full-time | MODALIDAD: Presencial
+2026-02-24 23:13:39,713 | INFO |  ----------------------------------------

@@ -29,12 +29,12 @@ class ScraperService:
             
             self.logger.registrar(f"WEB_{nombre_log}", f"Conexión exitosa. Detectados: {len(vacantes_encontradas)}")
             
-            # --- BLOQUE DE SIMULACIÓN PARA PRUEBA ---
-            if len(vacantes_encontradas) > 3:
-                self.logger.registrar(f"WEB_{nombre_log}", "SIMULACIÓN: Eliminando 3 vacantes de la lista para probar desactivación", "WARNING")
-                # Quitamos las 3 últimas vacantes encontradas
-                vacantes_encontradas = vacantes_encontradas[:-3]
-            # ----------------------------------------
+            # # --- BLOQUE DE SIMULACIÓN PARA PRUEBA ---
+            # if len(vacantes_encontradas) > 3:
+            #     self.logger.registrar(f"WEB_{nombre_log}", "SIMULACIÓN: Eliminando 3 vacantes de la lista para probar desactivación", "WARNING")
+            #     # Quitamos las 3 últimas vacantes encontradas
+            #     vacantes_encontradas = vacantes_encontradas[:-3]
+            # # ----------------------------------------
             
             # 3. Lista para rastrear qué vacantes siguen vivas en la web
             ids_vivos = []
