@@ -36,7 +36,8 @@ class FileHandlerAdapter:
         os.makedirs(folder_path, exist_ok=True)
 
         # Nombre del archivo principal (siempre el actual)
-        nombre_archivo = f"{base_name}-{fecha_hoy}.log"
+        nombre_log = base_name.upper()
+        nombre_archivo = f"{nombre_log}-{fecha_hoy}.log"
         ruta_completa = os.path.join(folder_path, nombre_archivo)
 
         logger = logging.getLogger(nombre_archivo)

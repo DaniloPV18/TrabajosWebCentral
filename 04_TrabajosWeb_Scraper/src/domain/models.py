@@ -3,13 +3,20 @@ from datetime import datetime
 
 @dataclass
 class Vacante:
+    # 1. Campos Obligatorios (Sin valor por defecto)
     titulo: str
     url: str
-    identificador: str  # La URL suele ser el identificador único
+    identificador: str 
     
-    id_empresa: int = None  # <-- Campo nuevo para la FK de la base de datos
+    # 2. Nuevos campos de Scraping (Con valor por defecto)
+    ubicacion: str = "No especificada"
+    area: str = "No especificada"
+    modalidad: str = "No especificada"
+    tipo_contrato: str = "No especificado"
+    
+    # 3. Campos de Gestión y Metadatos
+    id_empresa: int = None
     empresa: str = ""
-    
     descripcion: str = ""
     fecha_extraccion: datetime = None
 

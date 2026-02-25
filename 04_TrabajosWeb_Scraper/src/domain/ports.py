@@ -14,6 +14,6 @@ class LoggerPort(ABC):
     
 class ScraperEngine(ABC):
     @abstractmethod
-    def extraer(self, subdominio: str) -> list:
+    def extraer(self, subdominio: str, logger_name: str) -> list:
         """Debe retornar una lista de objetos Vacante"""
         pass

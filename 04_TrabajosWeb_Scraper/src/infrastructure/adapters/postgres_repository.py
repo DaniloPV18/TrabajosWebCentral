@@ -8,21 +8,33 @@ class PostgresVacanteRepository(VacanteRepository):
 
     @gestionar_errores(capa="Infraestructura")
     def guardar(self, vacante) -> bool:
-        # 1. Corregidos nombres a minúsculas y agregado id_empresa
+        # 1. Agregamos las 4 nuevas columnas al query
         query = """
-            INSERT INTO vacantes (titulo, identificador, url, id_empresa, id_estado)
-            VALUES (%s, %s, %s, %s, (SELECT id FROM estado WHERE nombre = 'Activo' LIMIT 1))
+            INSERT INTO vacantes (
+                titulo, identificador, url, id_empresa, 
+                ubicacion, area, modalidad, tipo_contrato, id_estado
+            )
+            VALUES (
+                %s, %s, %s, %s, 
+                %s, %s, %s, %s, 
+                (SELECT id FROM estado WHERE nombre = 'Activo' LIMIT 1)
+            )
             ON CONFLICT (identificador) DO NOTHING;
-        """
+        """        
+        # 2. Mapeamos los nuevos atributos del modelo Vacante
+        params = (
+            vacante.titulo, 
+            vacante.identificador, 
+            vacante.url, 
+            vacante.id_empresa,
+            vacante.ubicacion,     # <--- Nuevo
+            vacante.area,          # <--- Nuevo
+            vacante.modalidad,     # <--- Nuevo
+            vacante.tipo_contrato  # <--- Nuevo
+        )
         with psycopg2.connect(**self.config) as conn:
             with conn.cursor() as cur:
-                # 2. Pasamos vacante.id_empresa (que el servicio asignó dinámicamente)
-                cur.execute(query, (
-                    vacante.titulo, 
-                    vacante.identificador, 
-                    vacante.url, 
-                    vacante.id_empresa
-                ))
+                cur.execute(query, params)
                 conn.commit()
                 return cur.rowcount > 0
     

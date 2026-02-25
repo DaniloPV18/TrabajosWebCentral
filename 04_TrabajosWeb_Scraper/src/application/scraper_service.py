@@ -29,7 +29,7 @@ class ScraperService:
             self.logger.registrar(f"WEB_{nombre_log}", f"--- [IN] Iniciando scraping en {subdominio} ---")
             
             # 3. LEO: El motor hace su trabajo sucio con Selenium
-            vacantes_encontradas = motor.extraer(subdominio)
+            vacantes_encontradas = motor.extraer(subdominio, proveedor)
             
             self.logger.registrar(f"WEB_{nombre_log}", f"Conexión exitosa. Detectados: {len(vacantes_encontradas)}")
             

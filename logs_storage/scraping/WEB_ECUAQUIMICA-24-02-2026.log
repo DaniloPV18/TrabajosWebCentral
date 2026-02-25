@@ -20,3 +20,25 @@
 2026-02-24 04:00:50,369 | INFO |  [OUT] Extraído: Jefe de Marketing | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/69728d5d87b8006f5b29e406
 2026-02-24 04:00:50,423 | INFO |  [OUT] Extraído: Analista Financiero San Camilo - Guayaquil | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6970edfb003a41a0e2ade3ef
 2026-02-24 04:00:50,481 | INFO |  [OUT] Extraído: Inspector de Calidad | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/696ac1f01ff85880ffacea6a
+2026-02-24 22:13:51,608 | INFO |  --- [IN] Iniciando scraping en ecuaquimica ---
+2026-02-24 22:14:13,232 | INFO |  Conexión exitosa. Detectados: 20
+2026-02-24 22:14:13,233 | INFO |  [OUT] Extraído: Asesor Comercial Nutrición Animal - Machala | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/699dd506ba1bdcc8a3692e18
+2026-02-24 22:14:13,283 | INFO |  [OUT] Extraído: Promotor Zonal (Campo Abierto) - Pallatanga | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/699c666be544df9f2c891147
+2026-02-24 22:14:13,332 | INFO |  [OUT] Extraído: Asistente de Logística - Sto Domingo | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6998f75ed60a76f5d06c8025
+2026-02-24 22:14:13,378 | INFO |  [OUT] Extraído: Asistente de Crédito | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/69963f961ec952dd44e68e7f
+2026-02-24 22:14:13,427 | INFO |  [OUT] Extraído: Representante Técnico Comercial - Babahoyo | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/699602e41360c90b993c8de7
+2026-02-24 22:14:13,479 | INFO |  [OUT] Extraído: Asesor Técnico Comercial - Guayas | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6996014cb622842e6a1c4b60
+2026-02-24 22:14:13,529 | INFO |  [OUT] Extraído: Especialista de Nutrición - Sto Domingo | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6995fe0e870808e419517dd9
+2026-02-24 22:14:13,577 | INFO |  [OUT] Extraído: Especialista Técnico Eventual - Ganadería (Imbabura-Carchi) | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/698fac6507fc0aa278977d21
+2026-02-24 22:14:13,627 | INFO |  [OUT] Extraído: Auxiliar de Bodega - Quevedo | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/698e4ed9a00878ad1082cb95
+2026-02-24 22:14:13,682 | INFO |  [OUT] Extraído: Supervisor de Ventas Sierra - Mascotas | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/698ccbbbafb7e26a5fb9f3da
+2026-02-24 22:14:13,736 | INFO |  [OUT] Extraído: Analista de Trade Marketing - Guayaquil | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6983abc95d009ed3a6449925
+2026-02-24 22:14:13,784 | INFO |  [OUT] Extraído: Promotor de Mostrador - San Gabriel | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6983a42624ceb08bdeceb2c7
+2026-02-24 22:14:13,828 | INFO |  [OUT] Extraído: Asistente Contable Eventual - Guayaquil | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/69839bf01e7e9066c4aacb62
+2026-02-24 22:14:13,874 | INFO |  [OUT] Extraído: Asistente de Registro - UIO | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/69827b211b44275096112d73
+2026-02-24 22:14:13,920 | INFO |  [OUT] Extraído: Promotor Farma & Consumo - Santo Domingo | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6980f1b09f3d4e331e3087c4
+2026-02-24 22:14:13,966 | INFO |  [OUT] Extraído: Coordinador de Trade Marketing (Nutrición Animal) | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/697d235915b8d0c38a431199
+2026-02-24 22:14:14,012 | INFO |  [OUT] Extraído: Jefe de Auditoría y Control | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/697d1101645382b445784b63
+2026-02-24 22:14:14,058 | INFO |  [OUT] Extraído: Visitador Médico - Línea de Femarelle Quito | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/697403902166419583b7bcb2
+2026-02-24 22:14:14,109 | INFO |  [OUT] Extraído: Jefe de Marketing | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/69728d5d87b8006f5b29e406
+2026-02-24 22:14:14,156 | INFO |  [OUT] Extraído: Analista Financiero San Camilo - Guayaquil | URL: https://ecuaquimica.hiringroom.com/jobs/get_vacancy/6970edfb003a41a0e2ade3ef

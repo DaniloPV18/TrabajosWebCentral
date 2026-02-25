@@ -8,12 +8,12 @@ CREATE TABLE IF NOT EXISTS estado (
 INSERT INTO estado (nombre) VALUES ('Activo'), ('Inactivo'), ('Pendiente')
 ON CONFLICT (nombre) DO NOTHING;
 
-CREATE TABLE IF NOT EXISTS rol (
-    id SERIAL PRIMARY KEY,
-    nombre VARCHAR(50) NOT NULL,
-    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+-- CREATE TABLE IF NOT EXISTS rol (
+--     id SERIAL PRIMARY KEY,
+--     nombre VARCHAR(50) NOT NULL,
+--     fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+-- );
 
 CREATE TABLE IF NOT EXISTS usuario (
     id SERIAL PRIMARY KEY,
@@ -24,23 +24,23 @@ CREATE TABLE IF NOT EXISTS usuario (
     fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE TABLE IF NOT EXISTS tipo_contrato (
-    id SERIAL PRIMARY KEY,
-    nombre VARCHAR(100) NOT NULL,
-    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    usuario_creacion INT REFERENCES usuario(id),
-    usuario_actualizacion INT REFERENCES usuario(id)
-);
+-- CREATE TABLE IF NOT EXISTS tipo_contrato (
+--     id SERIAL PRIMARY KEY,
+--     nombre VARCHAR(100) NOT NULL,
+--     fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     usuario_creacion INT REFERENCES usuario(id),
+--     usuario_actualizacion INT REFERENCES usuario(id)
+-- );
 
-CREATE TABLE IF NOT EXISTS tipo_modalidad (
-    id SERIAL PRIMARY KEY,
-    nombre VARCHAR(100) NOT NULL,
-    fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    usuario_creacion INT REFERENCES usuario(id),
-    usuario_actualizacion INT REFERENCES usuario(id)
-);
+-- CREATE TABLE IF NOT EXISTS tipo_modalidad (
+--     id SERIAL PRIMARY KEY,
+--     nombre VARCHAR(100) NOT NULL,
+--     fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     usuario_creacion INT REFERENCES usuario(id),
+--     usuario_actualizacion INT REFERENCES usuario(id)
+-- );
 
 CREATE TABLE IF NOT EXISTS empresas (
     id SERIAL PRIMARY KEY,
@@ -69,13 +69,17 @@ CREATE TABLE IF NOT EXISTS vacantes (
     id_empresa INT REFERENCES empresas(id),
     titulo VARCHAR(255) NOT NULL,
     descripcion TEXT,
-    identificador VARCHAR(100) UNIQUE, -- CRÍTICO: Para evitar duplicados en scraping
+    identificador VARCHAR(100) UNIQUE, -- UUID extraído de la URL
     url TEXT,
+    -- Nuevos campos agregados
+    ubicacion VARCHAR(150),
+    area VARCHAR(150),
+    modalidad VARCHAR(100),
+    tipo_contrato VARCHAR(100),
+    -------------------------
     fecha_registro TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     fecha_actualizado TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     usuario_creacion INT REFERENCES usuario(id),
     usuario_actualizacion INT REFERENCES usuario(id),
-    id_tipo_contrato INT REFERENCES tipo_contrato(id),
-    id_tipo_modalidad INT REFERENCES tipo_modalidad(id),
     id_estado INT REFERENCES estado(id)
 );

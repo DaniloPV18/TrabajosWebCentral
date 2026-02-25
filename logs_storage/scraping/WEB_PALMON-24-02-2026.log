@@ -65,3 +65,25 @@
 2026-02-24 04:00:37,708 | INFO |  [OUT] Extraído: Vendedores de tienda San Luis Shopping | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2b6c2c439eabdce41e4c
 2026-02-24 04:00:37,786 | INFO |  [OUT] Extraído: Vendedores de tienda Granados Plaza | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2b37aacb782ea96cbc4c
 2026-02-24 04:00:37,835 | INFO |  [OUT] Extraído: Vendedores de tienda - Quicentro Sur | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2ae22c439eabdce41d43
+2026-02-24 22:13:27,790 | INFO |  --- [IN] Iniciando scraping en grupopalmon ---
+2026-02-24 22:13:50,633 | INFO |  Conexión exitosa. Detectados: 20
+2026-02-24 22:13:50,637 | INFO |  [OUT] Extraído: Analista de nomina | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/698b67cd57d1e56774cf968f
+2026-02-24 22:13:50,689 | INFO |  [OUT] Extraído: Pasante de Diseño Gráfico | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/6986109409b0defc119a2a4b
+2026-02-24 22:13:50,732 | INFO |  [OUT] Extraído: Administrador de tiendas - Sierra | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/6984fafae169b0d9d0ebcd4d
+2026-02-24 22:13:50,777 | INFO |  [OUT] Extraído: Administrador de tiendas - Costa | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/6984f9ace169b0d9d0ebc6e8
+2026-02-24 22:13:50,828 | INFO |  [OUT] Extraído: Diseñador Gráfico | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/698377a8a1d02be165b3eb93
+2026-02-24 22:13:50,873 | INFO |  [OUT] Extraído: Vendedores de tienda Centro | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/698207b51e6b3bfca99b8e69
+2026-02-24 22:13:50,916 | INFO |  [OUT] Extraído: Vendedores de tienda Latacunga | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/6980b9878fd52ffa2f4be421
+2026-02-24 22:13:50,965 | INFO |  [OUT] Extraído: Pasante de Edición | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2ecf15b8d0c38a432d53
+2026-02-24 22:13:51,009 | INFO |  [OUT] Extraído: Vendedores de tienda Machala | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2ea0aacb782ea96cc47b
+2026-02-24 22:13:51,054 | INFO |  [OUT] Extraído: Vendedores de tienda - Mall del Pacífico Manta | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2e67539a94c302ecee61
+2026-02-24 22:13:51,101 | INFO |  [OUT] Extraído: Vendedores de tienda - Paseo Shopping Manta | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2e35539a94c302ecede9
+2026-02-24 22:13:51,143 | INFO |  [OUT] Extraído: Vendedores de tienda Paseo Shopping Playas | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2e012c439eabdce422fc
+2026-02-24 22:13:51,209 | INFO |  [OUT] Extraído: Vendedores de tienda - Portoviejo | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2db815b8d0c38a432a56
+2026-02-24 22:13:51,278 | INFO |  [OUT] Extraído: Vendedores de tienda Paseo Shopping Quevedo | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2d82539a94c302ecec6f
+2026-02-24 22:13:51,323 | INFO |  [OUT] Extraído: Vendedores de tienda Condado Shopping | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2c52aacb782ea96cbe92
+2026-02-24 22:13:51,364 | INFO |  [OUT] Extraído: Vendedores de tienda El Recreo | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2c20539a94c302ece98c
+2026-02-24 22:13:51,411 | INFO |  [OUT] Extraído: Vendedores de tienda CCI | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2b9f539a94c302ece85a
+2026-02-24 22:13:51,458 | INFO |  [OUT] Extraído: Vendedores de tienda San Luis Shopping | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2b6c2c439eabdce41e4c
+2026-02-24 22:13:51,508 | INFO |  [OUT] Extraído: Vendedores de tienda Granados Plaza | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2b37aacb782ea96cbc4c
+2026-02-24 22:13:51,562 | INFO |  [OUT] Extraído: Vendedores de tienda - Quicentro Sur | URL: https://grupopalmon.hiringroom.com/jobs/get_vacancy/697d2ae22c439eabdce41d43

@@ -8,14 +8,14 @@ if __name__ == "__main__":
     # 1. Preparar adaptadores de infraestructura
     # El repositorio ahora tiene el método para consultar la lista de empresas
     repo = PostgresVacanteRepository(Config.DB_PARAMS)
+    # Instanciamos el logger que se comunicará con el servicio de logs (puerto 8000)
     logger = HttpLoggerAdapter()
 
     # 2. Definir los motores disponibles (Estrategias)
-    # Aquí es donde el comportamiento varía según el proveedor
+    # INYECTAMOS el logger dentro de cada motor para que puedan reportar su actividad
     motores = {
-        'hiringroom': HiringRoomEngine()
-        # Cuando tengas otro, simplemente lo agregas aquí:
-        # 'workday': WorkdayEngine() 
+        'hiringroom': HiringRoomEngine(logger=logger)
+        # En el futuro: 'workday': WorkdayEngine(logger=logger) 
     }
 
     # 3. Inyectar el mapa de motores en el servicio
