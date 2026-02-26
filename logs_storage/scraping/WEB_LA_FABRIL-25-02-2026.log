@@ -1,0 +1,23 @@
+2026-02-25 22:57:58,881 | INFO |  --- [IN] Iniciando scraping en La Fabril ---
+2026-02-25 22:58:18,641 | INFO |  Conexión exitosa. Detectados: 20
+2026-02-25 22:58:18,686 | INFO |  [OUT] Extraído: Supervisor de Ventas | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/699f21fccb88f24d5b6f5ba1
+2026-02-25 22:58:18,731 | INFO |  [OUT] Extraído: Ayudante de Planta | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/699f01148b8d8363eee51b93
+2026-02-25 22:58:18,772 | INFO |  [OUT] Extraído: Agente de Call Center | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/699c7a95fd6e92eda7b811b3
+2026-02-25 22:58:18,813 | INFO |  [OUT] Extraído: KAM Senior | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/699c626036fcaf3e6665df04
+2026-02-25 22:58:18,853 | INFO |  [OUT] Extraído: Pasante de Auditoria | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/699c60e2ca0e4708dd72d867
+2026-02-25 22:58:18,897 | INFO |  [OUT] Extraído: Capitán de Meseros | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/698f3c39507d4429fb83b4c1
+2026-02-25 22:58:18,937 | INFO |  [OUT] Extraído: Operador de Montacargas | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/698f35d859065fef213d28cd
+2026-02-25 22:58:18,979 | INFO |  [OUT] Extraído: Pasante de Planificación | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/698b9f01d2c6212558804c19
+2026-02-25 22:58:19,024 | INFO |  [OUT] Extraído: Asistente de Marketing | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/698a142720a1a8d02b8372cb
+2026-02-25 22:58:19,070 | INFO |  [OUT] Extraído: Comprador | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/6983867f5d009ed3a64422ad
+2026-02-25 22:58:19,106 | INFO |  [OUT] Extraído: KAM Jr - Canal HORECA | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/6977a1d620725b1a5c9286e6
+2026-02-25 22:58:19,145 | INFO |  [OUT] Extraído: Vendedor VDI | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/696e60b92260e709519baef6
+2026-02-25 22:58:19,188 | INFO |  [OUT] Extraído: Especialista de Medios & Digital | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/696e5d973f6ba01cb56b6ffc
+2026-02-25 22:58:19,230 | INFO |  [OUT] Extraído: Asistente de Crédito y Cobranza | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/695e6352fb5d372dbca83395
+2026-02-25 22:58:19,271 | INFO |  [OUT] Extraído: Impulsador (Temporal) | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/695d399f68aa3d33f07b5a79
+2026-02-25 22:58:19,311 | INFO |  [OUT] Extraído: Pasante de Marketing - RGM | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/695c2060651f3443293d7463
+2026-02-25 22:58:19,353 | INFO |  [OUT] Extraído: Mercaderista | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/694f019b5d60c04dbe04bfe4
+2026-02-25 22:58:19,396 | INFO |  [OUT] Extraído: Mercaderista | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/694eff6d05c0c048b0df238c
+2026-02-25 22:58:19,441 | INFO |  [OUT] Extraído: Asesor de Ventas B2B - Panificación | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/693059e17f84219e3012633f
+2026-02-25 22:58:19,482 | INFO |  [OUT] Extraído: Vendedor/a Mayorista | URL: https://lafabril.hiringroom.com/jobs/get_vacancy/6927796386efa7ee6d45e238
+2026-02-25 22:58:19,525 | INFO |  --- [OUT] Fin de ciclo para La Fabril ---

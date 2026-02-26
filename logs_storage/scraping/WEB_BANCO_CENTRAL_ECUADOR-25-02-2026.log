@@ -1,0 +1,8 @@
+2026-02-25 22:58:19,528 | INFO |  --- [IN] Iniciando scraping en Banco Central del Ecuador ---
+2026-02-25 22:58:30,831 | INFO |  Conexión exitosa. Detectados: 5
+2026-02-25 22:58:30,872 | INFO |  [OUT] Extraído: Analista de Proyectos Informáticos e Innovación | URL: https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/699f29c5a826d7fa92c59669
+2026-02-25 22:58:30,916 | INFO |  [OUT] Extraído: Secretaria Ejecutiva | URL: https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/699f270d2cf98d72fc3090ed
+2026-02-25 22:58:30,981 | INFO |  [OUT] Extraído: Estibador | URL: https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/699dc4f3ba1bdcc8a368f543
+2026-02-25 22:58:31,066 | INFO |  [OUT] Extraído: Especialista Riesgos Financieros | URL: https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/69657602ffb0a94bf0b33e6e
+2026-02-25 22:58:31,147 | INFO |  [OUT] Extraído: Experto en Desarrollo de Software | URL: https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/68ffa2364da7e6be9fdf1b02
+2026-02-25 22:58:31,195 | INFO |  --- [OUT] Fin de ciclo para Banco Central del Ecuador ---

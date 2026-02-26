@@ -64,6 +64,18 @@ INSERT INTO empresas (nombre, nombre_log, subdominio, proveedor, id_estado)
 VALUES ('ECUAQUIMICA', 'ECUAQUIMICA','ecuaquimica', 'hiringroom', 1)
 ON CONFLICT (nombre) DO NOTHING;
 
+INSERT INTO empresas (nombre, nombre_log, subdominio, proveedor, id_estado) 
+VALUES ('La Fabril', 'LA_FABRIL','lafabril', 'hiringroom', 1)
+ON CONFLICT (nombre) DO NOTHING;
+
+INSERT INTO empresas (nombre, nombre_log, subdominio, proveedor, id_estado) 
+VALUES ('Banco Central del Ecuador', 'BANCO_CENTRAL_ECUADOR','bancocentraldelecuador', 'hiringroom', 1)
+ON CONFLICT (nombre) DO NOTHING;
+
+INSERT INTO empresas (nombre, nombre_log, subdominio, proveedor, id_estado) 
+VALUES ('Grupo Lucky', 'GRUPO_LUCKY','lucky', 'hiringroom', 1)
+ON CONFLICT (nombre) DO NOTHING;
+
 CREATE TABLE IF NOT EXISTS vacantes (
     id SERIAL PRIMARY KEY,
     id_empresa INT REFERENCES empresas(id),

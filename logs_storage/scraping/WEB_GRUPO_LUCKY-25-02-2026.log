@@ -1,0 +1,23 @@
+2026-02-25 22:58:31,198 | INFO |  --- [IN] Iniciando scraping en Grupo Lucky ---
+2026-02-25 22:58:47,584 | INFO |  Conexión exitosa. Detectados: 20
+2026-02-25 22:58:47,630 | INFO |  [OUT] Extraído: Analista de Soporte TI | URL: https://lucky.hiringroom.com/jobs/get_vacancy/699d17435a9250ac3919f7f7
+2026-02-25 22:58:47,677 | INFO |  [OUT] Extraído: LOJA - MERCADERISTA CONSUMO MASIVO | URL: https://lucky.hiringroom.com/jobs/get_vacancy/699cd4b78a50a76fc6520657
+2026-02-25 22:58:47,720 | INFO |  [OUT] Extraído: Santo Domingo: Promotor Canal Ferretero | URL: https://lucky.hiringroom.com/jobs/get_vacancy/699c967614b9f1a2e729af44
+2026-02-25 22:58:47,762 | INFO |  [OUT] Extraído: QUITO: MERCADERISTA CONSUMO MASIVO | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6998ceead60a76f5d06c2ad0
+2026-02-25 22:58:47,807 | INFO |  [OUT] Extraído: Loja: Auditor de campo TAT | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6998bdc4f1a61a90e4270b6b
+2026-02-25 22:58:47,852 | INFO |  [OUT] Extraído: GUAYAQUIL: MERCADERISTA CANAL MODERNO | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6998b33ced1ac56f3d369731
+2026-02-25 22:58:47,895 | INFO |  [OUT] Extraído: El Coca: Auditor de campo TAT | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6998837cb28cfd6c3f9f0b21
+2026-02-25 22:58:47,942 | INFO |  [OUT] Extraído: Quito: Promotor de Tecnología | URL: https://lucky.hiringroom.com/jobs/get_vacancy/699882ffb9c17de0597c27dd
+2026-02-25 22:58:47,987 | INFO |  [OUT] Extraído: Santo Domingo: Promotor Canal Ferretero | URL: https://lucky.hiringroom.com/jobs/get_vacancy/699882b561e1fd9eed72aeb0
+2026-02-25 22:58:48,031 | INFO |  [OUT] Extraído: Esmeraldas: Promotor Canal Ferretero | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6998828ab28cfd6c3f9f0806
+2026-02-25 22:58:48,075 | INFO |  [OUT] Extraído: Cuenca: Promotor Canal Ferretero | URL: https://lucky.hiringroom.com/jobs/get_vacancy/69979757bc073567b1d0548c
+2026-02-25 22:58:48,118 | INFO |  [OUT] Extraído: CUENCA - MERCADERISTA CONSUMO MASIVO | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6997721575d9ddd2126c5edc
+2026-02-25 22:58:48,162 | INFO |  [OUT] Extraído: CUENCA - IMPULSADORA CONSUMO MASIVO | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6997716a75d9ddd2126c5c0f
+2026-02-25 22:58:48,208 | INFO |  [OUT] Extraído: AMBATO - MERCADERISTA CANAL MODERNO - TRADICIONAL | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6997361f97e1e435a76dd170
+2026-02-25 22:58:48,252 | INFO |  [OUT] Extraído: Guayaquil : Pasante de Inteligencia Comercial | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6997312c97e1e435a76dbdfc
+2026-02-25 22:58:48,296 | INFO |  [OUT] Extraído: Supervisor de Promotoría - TAT Cuenca | URL: https://lucky.hiringroom.com/jobs/get_vacancy/699651aa1ec952dd44e6c60f
+2026-02-25 22:58:48,342 | INFO |  [OUT] Extraído: QUITO: Pasante de Operaciones | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6995f49fa9faa421d5c5554a
+2026-02-25 22:58:48,386 | INFO |  [OUT] Extraído: Analista de Inteligencia Comercial | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6995d1c817ad18d81faeefb7
+2026-02-25 22:58:48,431 | INFO |  [OUT] Extraído: CUENCA : Auditor de campo TAT | URL: https://lucky.hiringroom.com/jobs/get_vacancy/6995ce7d8d3bb54b15dca2fb
+2026-02-25 22:58:48,474 | INFO |  [OUT] Extraído: MANTA: Promotor de Tecnología | URL: https://lucky.hiringroom.com/jobs/get_vacancy/698b563b684723eadff3052d
+2026-02-25 22:58:48,518 | INFO |  --- [OUT] Fin de ciclo para Grupo Lucky ---
